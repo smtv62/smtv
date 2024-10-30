@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:0 tvg-id="TRT 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-1-tr.png?raw=true" ,TR: TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-id="trt 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-2-tr.png?raw=true" ,TR: TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-id="Star" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/star-tv-tr.png?raw=true" ,TR: Star TV
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:0 tvg-id="Kanal D" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/kanal-d-tr.png?raw=true" ,TR: Kanal D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+#EXTINF:0 tvg-id="Show TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-tr.png?raw=true" ,TR: SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:0 tvg-id="ATV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" ,TR: ATV
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+#EXTINF:0 tvg-id="FOX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/now-tr.png?raw=true" ,TR: NOW
+http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
+#EXTINF:0 tvg-id="Beyaz TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,TR: Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:0 tvg-id="FX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/580
+#EXTINF:0 tvg-id="DMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" ,TR: DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:0 tvg-id="TLC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tlc-ca.png?raw=true" ,TR: TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:0 tvg-id="TV8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tv8-tr.png?raw=true" ,TR: TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tv85-tr.png?raw=true" ,TR: TV 8.5
+http://hw1.jemtv.com/app/tv85/playlist.m3u8
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tv8-int-tr.png?raw=true" ,TR: TV 8 International
+http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
+#EXTINF:0 tvg-id="Kanal 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/kanal-7-tr.png?raw=true" ,TR: Kanal 7
+http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
+#EXTINF:0 ,TR: Exxen TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300384
+#EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/fenerbahce-tv-tr.png?raw=true" ,TR: FB TV
+http://50.7.144.122:1935/livetv/fbtv.stream/sec-f5-v1-a1.m3u8
+#EXTINF:0 tvg-id="a Spor" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/a-spor-tr.png?raw=true" ,TR: A Spor
+http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
+#EXTINF:0 tvg-id="TRT Spor" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-hd-tr.png?raw=true" ,TR: TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-id="TRT 3 Spor" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-3-spor-tr.png?raw=true" ,TR: TRT 3 Spor
+http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+#EXTINF:0 tvg-id="Sports Tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/sports-tv-tr.png?raw=true" ,TR: Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0 tvg-id="TRT Spor Yıldız" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-yildiz-tr.png?raw=true" ,TR: TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="TRT Belgesel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" ,TR: TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-id="TGRT Belgesel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tgrt-belgesel-tr.png?raw=true" ,TR: TGRT Belgesel
+http://50.7.144.122:1935/livetv/tgrtbelgesel.stream/sec-f5-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642" ,TR: Yaban
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+#EXTINF:0 tvg-id="Love Nature" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/love-nature-ca.png?raw=true" ,TR: Love Nature Multidil
+http://95.67.12.82:9098
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports Haber
+http://162.212.179.32/gin-dvrfl05/gin-beinsportshaber/playlist.m3u8
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
+https://titantv-zirveye-hep-beraber.tiiny.io?url=701
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports2.png?raw=true" ,TR: beIN Sports 2
+https://titantv-zirveye-hep-beraber.tiiny.io?url=702
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports3.png?raw=true" ,TR: beIN Sports 3
+https://titantv-zirveye-hep-beraber.tiiny.io?url=703
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports4.png?raw=true" ,TR: beIN Sports 4
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/7450
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports5.png?raw=true" ,TR: beIN Sports 5
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/300982
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1 Yedek
+https://alpha.cf-worker-3ca7cdfeb6e8eef1.workers.dev/live/bein-sports-1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports2.png?raw=true" ,TR: beIN Sports 2 Yedek
+https://alpha.cf-worker-3ca7cdfeb6e8eef1.workers.dev/live/bein-sports-2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports3.png?raw=true" ,TR: beIN Sports 3 Yedek
+https://alpha.cf-worker-3ca7cdfeb6e8eef1.workers.dev/live/bein-sports-3/playlist.m3u8
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1 Yedek 2
+http://pubgamers.net:80/BabaElvisMatija/p3Es61zJbH/176
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports2.png?raw=true" ,TR: beIN Sports 2 Yedek 2
+http://pubgamers.net:80/BabaElvisMatija/p3Es61zJbH/174
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports3.png?raw=true" ,TR: beIN Sports 3 Yedek 2
+http://pubgamers.net:80/BabaElvisMatija/p3Es61zJbH/173
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports4.png?raw=true" ,TR: beIN Sports 4 Yedek
+https://b2.anystreamrectv13.xyz/live2/bs44/index.m3u8
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports5.png?raw=true" ,TR: beIN Sports 5 Yedek
+https://t2.anystreamrectv13.xyz/live/bs5/index.m3u8
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png?raw=true" ,TR: beIN Sports Max 1 Yedek
+https://octff.trgoalshls25.shop/yayinb2.m3u8
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-2-max-int.png?raw=true" ,TR: beIN Sports Max 2 Yedek
+https://live.anystreamrectv3.live/live/bsmax2.m3u8
+#EXTINF:0 tvg-id="Spor Smart 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/spor-smart-hd-tr.png?raw=true" ,TR: Spor Smart 2
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/50121
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" ,TR: S Sport
+https://ancient-shape-c20a.esraerolpompakeeas.workers.dev/https://tayland.canlimachd10.site/hls/s-sport.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" ,TR: S Sport 2
+https://ancient-shape-c20a.esraerolpompakeeas.workers.dev/https://tayland.canlimachd10.site/hls/s-sport-2.m3u8
+#EXTINF:0 tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/1746
+#EXTINF:0 tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor 1
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/299705
+#EXTINF:0 tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor 2
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/1748
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor 3
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/1749
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor 4
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/286778
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor
+https://gteo6wvqpfl05p5jb59q2g.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 1
+https://gXh8UAvslIiLiwOXdgfPAg.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 2
+https://79sPUEMRpKAKHmwjDyyklw.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 3
+https://JcflHbdqESDF34nubfJS5w.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 4
+https://m0clrNFlIaxMm69U1pjQ9w.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 5
+https://zTmN6RZ5z2LSCQvJ8nY9XQ.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 6
+https://QDzttCYaUBq_ZxcNUuBjCQ.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true" ,TR: Sinevizyon 1
+http://62.210.88.161/gin-trn09/gt-sinevizyon-1/index.m3u8
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true" ,TR: Sinevizyon 2
+http://62.210.88.161/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true" ,TR: Sinema TV 1
+http://stream.tvcdn.net/diger-eglence/sinema-tv-1.m3u8
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true" ,TR: Sinema TV 2
+http://stream.tvcdn.net/diger-eglence/sinema-tv-2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 1
+https://ie.sonyrepairs.com/pr1/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 2
+https://ie.sonyrepairs.com/pr2/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 3
+https://ie.sonyrepairs.com/pr3/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 4
+https://ie.sonyrepairs.com/pr4/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 5
+https://ie.sonyrepairs.com/pr5/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 6
+https://ie.sonyrepairs.com/pr6/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Sky Sport F1
+https://ie.sonyrepairs.com/skspf1/index.m3u8
+#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/futuretech/images/Futuretech/46b106a9-29d2-4997-8eca-4e90e27e061f_180x180_beINLaLiga.es.png" ,BEIN SPORT LA LIGA esp
+https://11streamt11.akamaized.net/FTX10_BEIN_SPORT_LA_LIGA_ESP/index.mpd
+#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/futuretech/images/Futuretech/c142928f-fe36-44b3-a29c-3ec11d824f0a_180x180_beINSports.es.png" ,BEIN SPORTS ESP (US)
+https://11streamt11.akamaized.net/FTX10_BEIN_SPORTS_ESP_US/index.mpd
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,BEIN SPORTS LA LIGA
+https://11streamt11.akamaized.net/FTX8_ES_BEIN_SPORTS_LA_LIGA/index.mpd
+#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/futuretech/images/Futuretech/d350943f-46b4-4fae-b661-ec5c87f652cd_180x180_BeIN_SPORTS_USA_logo_2017.jpg" ,BEIN SPORTS USA
+https://11streamt11.akamaized.net/FTX2_BEIN_SPORTS_USA/index.mpd
