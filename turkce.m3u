@@ -30,7 +30,9 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
 #EXTINF:0 tvg-id="Kanal 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/kanal-7-tr.png?raw=true" ,TR: Kanal 7
 http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
 #EXTINF:0 ,TR: Exxen TV
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300384
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinex1.m3u8
 #EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/fenerbahce-tv-tr.png?raw=true" ,TR: FB TV
 http://50.7.144.122:1935/livetv/fbtv.stream/sec-f5-v1-a1.m3u8
 #EXTINF:0 tvg-id="a Spor" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/a-spor-tr.png?raw=true" ,TR: A Spor
@@ -54,65 +56,107 @@ http://95.67.12.82:9098
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports Haber
 http://162.212.179.32/gin-dvrfl05/gin-beinsportshaber/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
-https://titantv-zirveye-hep-beraber.tiiny.io?url=701
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinzirve.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports2.png?raw=true" ,TR: beIN Sports 2
-https://titantv-zirveye-hep-beraber.tiiny.io?url=702
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinb2.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports3.png?raw=true" ,TR: beIN Sports 3
-https://titantv-zirveye-hep-beraber.tiiny.io?url=703
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinb3.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports4.png?raw=true" ,TR: beIN Sports 4
-http://myteve.online:8080/resplice/wdLIS4d9758INyuX/7450
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinb4.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports5.png?raw=true" ,TR: beIN Sports 5
-http://myteve.online:8080/resplice/wdLIS4d9758INyuX/300982
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1 Yedek
-https://alpha.cf-worker-3ca7cdfeb6e8eef1.workers.dev/live/bein-sports-1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports2.png?raw=true" ,TR: beIN Sports 2 Yedek
-https://alpha.cf-worker-3ca7cdfeb6e8eef1.workers.dev/live/bein-sports-2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports3.png?raw=true" ,TR: beIN Sports 3 Yedek
-https://alpha.cf-worker-3ca7cdfeb6e8eef1.workers.dev/live/bein-sports-3/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1 Yedek 2
-http://pubgamers.net:80/BabaElvisMatija/p3Es61zJbH/176
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports2.png?raw=true" ,TR: beIN Sports 2 Yedek 2
-http://pubgamers.net:80/BabaElvisMatija/p3Es61zJbH/174
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports3.png?raw=true" ,TR: beIN Sports 3 Yedek 2
-http://pubgamers.net:80/BabaElvisMatija/p3Es61zJbH/173
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports4.png?raw=true" ,TR: beIN Sports 4 Yedek
-https://b2.anystreamrectv13.xyz/live2/bs44/index.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports5.png?raw=true" ,TR: beIN Sports 5 Yedek
-https://t2.anystreamrectv13.xyz/live/bs5/index.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png?raw=true" ,TR: beIN Sports Max 1 Yedek
-https://octff.trgoalshls25.shop/yayinb2.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-2-max-int.png?raw=true" ,TR: beIN Sports Max 2 Yedek
-https://live.anystreamrectv3.live/live/bsmax2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinb5.m3u8
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1 A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://tvcadde20.com/
+https://dagbasini.zirvedeyim23.cfd/yayinzirve.m3u8
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports2.png?raw=true" ,TR: beIN Sports 2 B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://tvcadde20.com/
+https://dagbasini.zirvedeyim23.cfd/yayinb2.m3u8
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports3.png?raw=true" ,TR: beIN Sports 3 C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://tvcadde20.com/
+https://dagbasini.zirvedeyim23.cfd/yayinb3.m3u8
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports4.png?raw=true" ,TR: beIN Sports 4 D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://tvcadde20.com/
+https://dagbasini.zirvedeyim23.cfd/yayinb4.m3u8
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports5.png?raw=true" ,TR: beIN Sports 5 E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://tvcadde20.com/
+https://dagbasini.zirvedeyim23.cfd/yayinb5.m3u8
+#EXTINF:-1 tvg-name="Spor Smart" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="Spor",Spor Smart
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinsmarts.m3u8
 #EXTINF:0 tvg-id="Spor Smart 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/spor-smart-hd-tr.png?raw=true" ,TR: Spor Smart 2
-http://myteve.online:8080/resplice/wdLIS4d9758INyuX/50121
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinsms2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" ,TR: S Sport
-https://ancient-shape-c20a.esraerolpompakeeas.workers.dev/https://tayland.canlimachd10.site/hls/s-sport.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinss.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" ,TR: S Sport 2
-https://ancient-shape-c20a.esraerolpompakeeas.workers.dev/https://tayland.canlimachd10.site/hls/s-sport-2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinss2.m3u8
 #EXTINF:0 tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor
 http://myteve.online:8080/resplice/wdLIS4d9758INyuX/1746
 #EXTINF:0 tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor 1
-http://myteve.online:8080/resplice/wdLIS4d9758INyuX/299705
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayint1.m3u8
 #EXTINF:0 tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor 2
-http://myteve.online:8080/resplice/wdLIS4d9758INyuX/1748
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayint2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor 3
-http://myteve.online:8080/resplice/wdLIS4d9758INyuX/1749
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayint3.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor 4
-http://myteve.online:8080/resplice/wdLIS4d9758INyuX/286778
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayint4.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor
-https://gteo6wvqpfl05p5jb59q2g.medya.trt.com.tr/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinex7.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 1
-https://gXh8UAvslIiLiwOXdgfPAg.medya.trt.com.tr/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinex1.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 2
-https://79sPUEMRpKAKHmwjDyyklw.medya.trt.com.tr/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinex2.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 3
-https://JcflHbdqESDF34nubfJS5w.medya.trt.com.tr/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinex3.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 4
-https://m0clrNFlIaxMm69U1pjQ9w.medya.trt.com.tr/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinex4.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 5
-https://zTmN6RZ5z2LSCQvJ8nY9XQ.medya.trt.com.tr/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinex5.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 6
-https://QDzttCYaUBq_ZxcNUuBjCQ.medya.trt.com.tr/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals997.xyz/
+https://j.trgoalshls80.shop/yayinex6.m3u8
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true" ,TR: Sinevizyon 1
 http://62.210.88.161/gin-trn09/gt-sinevizyon-1/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true" ,TR: Sinevizyon 2
