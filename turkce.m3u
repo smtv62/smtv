@@ -104,7 +104,7 @@ https://titantv-zirveye-hep-beraber.tiiny.io?url=702
 https://titantv-zirveye-hep-beraber.tiiny.io?url=703
 #EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beINsports 4 B
 https://titantv-zirveye-hep-beraber.tiiny.io?url=704
-#EXTINF:-1 tvg-name="Spor Smart" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="Spor",Spor Smart
+#EXTINF:-1 tvg-name="Spor Smart" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" ,Spor Smart
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1003.xyz/
 https://d.trgoalshls85.shop/yayinsmarts.m3u8
