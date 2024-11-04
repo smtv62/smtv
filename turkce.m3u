@@ -99,8 +99,10 @@ https://zz.zirvedeyim24.cfd/yayinb5.m3u8
 #EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beINsports 1 B
 https://titantv-zirveye-hep-beraber.tiiny.io?url=701
 #EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beINsports 2 B
-https://titantv-zirveye-hep-beraber.tiiny.io?url=703
+https://titantv-zirveye-hep-beraber.tiiny.io?url=702
 #EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beINsports 3 B
+https://titantv-zirveye-hep-beraber.tiiny.io?url=703
+#EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beINsports 4 B
 https://titantv-zirveye-hep-beraber.tiiny.io?url=704
 #EXTINF:-1 tvg-name="Spor Smart" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="Spor",Spor Smart
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
