@@ -1,198 +1,177 @@
 
 #EXTM3U
-#EXTINF:0 tvg-id="TRT 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-1-tr.png?raw=true" ,TR: TRT 1
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR:TRT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt1.png" group-title="TURKEY",TR:TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="trt 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-2-tr.png?raw=true" ,TR: TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="Star" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/star-tv-tr.png?raw=true" ,TR: Star TV
-https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:0 tvg-id="Kanal D" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/kanal-d-tr.png?raw=true" ,TR: Kanal D
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:0 tvg-id="Show TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-tr.png?raw=true" ,TR: SHOW TV
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR:KANAL D HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanald.png" group-title="TURKEY",TR:KANAL D HD
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR:ATV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/atv.png" group-title="TURKEY",TR:ATV HD
+https://c.fulltvizle.com/aytv/index.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="TR:STAR TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/startv.png" group-title="TURKEY",TR:STAR TV HD
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR:SHOW TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/showtv.png" group-title="TURKEY",TR:SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:0 tvg-id="ATV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" ,TR: ATV
-http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
-#EXTINF:0 tvg-id="FOX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/now-tr.png?raw=true" ,TR: NOW
-http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
-#EXTINF:0 tvg-id="Beyaz TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,TR: Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:0 tvg-id="FX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
-http://myteve.online:8080/resplice/wdLIS4d9758INyuX/580
-#EXTINF:0 tvg-id="DMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" ,TR: DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:0 tvg-id="TLC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tlc-ca.png?raw=true" ,TR: TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:0 tvg-id="TV8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tv8-tr.png?raw=true" ,TR: TV 8
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tv85-tr.png?raw=true" ,TR: TV 8.5
-http://hw1.jemtv.com/app/tv85/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tv8-int-tr.png?raw=true" ,TR: TV 8 International
-http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
-#EXTINF:0 tvg-id="Kanal 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/kanal-7-tr.png?raw=true" ,TR: Kanal 7
-http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
-#EXTINF:0 ,TR: Exxen TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinex1.m3u8
-#EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/fenerbahce-tv-tr.png?raw=true" ,TR: FB TV
-http://50.7.144.122:1935/livetv/fbtv.stream/sec-f5-v1-a1.m3u8
-#EXTINF:0 tvg-id="a Spor" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/a-spor-tr.png?raw=true" ,TR: A Spor
-http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
-#EXTINF:0 tvg-id="TRT Spor" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-hd-tr.png?raw=true" ,TR: TRT Spor
+#EXTINF:-1 tvg-id="Now.tr" tvg-name="TR:NOW HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/fox.png" group-title="TURKEY",TR:NOW HD
+https://c.fulltvizle.com/fox/index.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR:TV 8 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8.png" group-title="TURKEY",TR:TV 8 HD
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TR:TV 8.5 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv85.png" group-title="TURKEY",TR:TV 8.5 HD
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="TR:BEYAZ TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/beyaz.png" group-title="TURKEY",TR:BEYAZ TV HD
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR:KANAL 7 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png" group-title="TURKEY",TR:KANAL 7 HD
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="TR:TEVE 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/teve2.png" group-title="TURKEY",TR:TEVE 2 HD
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:A2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/a2.png" group-title="TURKEY",TR:A2 HD
+https://c.fulltvizle.com/a2/index.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR:360 TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/360tv.png" group-title="TURKEY",TR:360 TV HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS HABER HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="TURKEY",TR:BEINSPORTS HABER HD
+https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURKEY",TR:BEINSPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png" group-title="TURKEY",TR:BEINSPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png" group-title="TURKEY",TR:BEINSPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein3/603/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein4.png" group-title="TURKEY",TR:BEINSPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein4/604/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 5 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="TURKEY",TR:BEINSPORTS 5 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein5/705/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS MAX 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax1.png" group-title="TURKEY",TR:BEINSPORTS MAX 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx1/805/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS MAX 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax2.png" group-title="TURKEY",TR:BEINSPORTS MAX 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx2/806/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="TURKEY",TR:EXXEN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen1/4101/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen2.png" group-title="TURKEY",TR:EXXEN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen2/4102/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen3.png" group-title="TURKEY",TR:EXXEN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen3/4103/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen4.png" group-title="TURKEY",TR:EXXEN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen4/4104/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 5  HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen5.png" group-title="TURKEY",TR:EXXEN SPORTS 5  HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen5/4105/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 6 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen6.png" group-title="TURKEY",TR:EXXEN SPORTS 6 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen6/4106/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="TURKEY",TR:S SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport1/3450/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="TURKEY",TR:S SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport2/3451/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:EUROSPORT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport1.png" group-title="TURKEY",TR:EUROSPORT 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/eurosp1/132/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:EUROSPORT 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport2.png" group-title="TURKEY",TR:EUROSPORT 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/eurosp2/142/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:SPOR SMART 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="TURKEY",TR:SPOR SMART 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/smart1/102/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:SPOR SMART 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="TURKEY",TR:SPOR SMART 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/smart2/104/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="TURKEY",TR:TIVIBUSPOR 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibu1/606/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TURKEY",TR:TIVIBUSPOR 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibu2/607/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TURKEY",TR:TIVIBUSPOR 3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibu3/608/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="TURKEY",TR:TIVIBUSPOR 4 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibu4/609/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TURKEY",TR:TABII SPOR 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi1/4101/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii2.png" group-title="TURKEY",TR:TABII SPOR 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi2/4102/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii3.png" group-title="TURKEY",TR:TABII SPOR 3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi3/4103/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii4.png" group-title="TURKEY",TR:TABII SPOR 4 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi4/4104/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 5 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii5.png" group-title="TURKEY",TR:TABII SPOR 5 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi5/4105/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 6 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii6.png" group-title="TURKEY",TR:TABII SPOR 6 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi6/4106/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="TURKEY",TR:TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="TRT 3 Spor" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-3-spor-tr.png?raw=true" ,TR: TRT 3 Spor
-http://stream.tvcdn.net/spor/trt-3-spor.m3u8
-#EXTINF:0 tvg-id="Sports Tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/sports-tv-tr.png?raw=true" ,TR: Sports TV
+#EXTINF:-1 tvg-id="" tvg-name="TR:A SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/aspor.png" group-title="TURKEY",TR:A SPOR HD
+https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:HT SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" group-title="TURKEY",TR:HT SPOR HD
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FB TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/fbtv.png" group-title="TURKEY",TR:FB TV HD
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:GS TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/gstv.png" group-title="TURKEY",TR:GS TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TAY TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/taytv.png" group-title="TURKEY",TR:TAY TV HD
+https://ythls.armelin.one/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TJK TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tjktv.png" group-title="TURKEY",TR:TJK TV HD
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:NBA TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/nbatv.png" group-title="TURKEY",TR:NBA TV HD
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:SPORTS TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/sportstv.png" group-title="TURKEY",TR:SPORTS TV HD
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:0 tvg-id="TRT Spor Yıldız" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-yildiz-tr.png?raw=true" ,TR: TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-id="TRT Belgesel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" ,TR: TRT Belgesel
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT HABER HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/trthaber.png" group-title="TURKEY",TR:TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:A HABER HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/ahaber.png" group-title="TURKEY",TR:A HABER HD
+https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:CNN TURK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/cnnturk.png" group-title="TURKEY",TR:CNN TURK HD
+https://ythls.armelin.one/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:HABERTURK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/haberturk.png" group-title="TURKEY",TR:HABERTURK HD
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TGRT HABER HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/tgrthaber.png" group-title="TURKEY",TR:TGRT HABER HD
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:SOZCU TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/sozcu.png" group-title="TURKEY",TR:SOZCU TV HD
+https://szctv.blutv.com/blutv_szctv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:HALK TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/halktv.png" group-title="TURKEY",TR:HALK TV HD
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TELE 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/tele1.png" group-title="TURKEY",TR:TELE 1 HD
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:ULKE TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/ulketv.png" group-title="TURKEY",TR:ULKE TV HD
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BLOOMBERG HT HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/bloomberg.png" group-title="TURKEY",TR:BLOOMBERG HT HD
+https://bloomberght2.blutv.com/blutv_bloomberght2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:NTV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/ntv.png" group-title="TURKEY",TR:NTV HD
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:HABER GLOBAL HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/haberglobal.png" group-title="TURKEY",TR:HABER GLOBAL HD
+https://haberglobal.blutv.com/blutv_haberglobal2/live.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TR:TRT TURK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/trtturk.png" group-title="TURKEY",TR:TRT TURK HD
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV 100 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/tv100.png" group-title="TURKEY",TR:TV 100 HD
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TVNET HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/tvnet.png" group-title="TURKEY",TR:TVNET HD
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT BELGESEL HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/trtbelgesel.png" group-title="TURKEY",TR:TRT BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="TGRT Belgesel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tgrt-belgesel-tr.png?raw=true" ,TR: TGRT Belgesel
-http://50.7.144.122:1935/livetv/tgrtbelgesel.stream/sec-f5-v1-a1.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642" ,TR: Yaban
-http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
-#EXTINF:0 tvg-id="Love Nature" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/love-nature-ca.png?raw=true" ,TR: Love Nature Multidil
-http://95.67.12.82:9098
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports Haber
-http://162.212.179.32/gin-dvrfl05/gin-beinsportshaber/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinzirve.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports2.png?raw=true" ,TR: beIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinb2.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports3.png?raw=true" ,TR: beIN Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinb3.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports4.png?raw=true" ,TR: beIN Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinb4.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports5.png?raw=true" ,TR: beIN Sports 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinb5.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://tvcadde20.com/
-https://jhdfjgkh.zirvedeyim25.cfd/yayinzirve.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports2.png?raw=true" ,TR: beIN Sports 2 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://tvcadde20.com/
-https://jhdfjgkh.zirvedeyim25.cfd/yayinb2.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports3.png?raw=true" ,TR: beIN Sports 3 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://tvcadde20.com/
-https://jhdfjgkh.zirvedeyim25.cfd/yayinb3.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports4.png?raw=true" ,TR: beIN Sports 4 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://tvcadde20.com/
-https://jhdfjgkh.zirvedeyim25.cfd/yayinb4.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports5.png?raw=true" ,TR: beIN Sports 5 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://tvcadde20.com/
-https://jhdfjgkh.zirvedeyim25.cfd/yayinb5.m3u8
-#EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beINsports 1 B
-https://titantv-zirveye-hep-beraber.tiiny.io?url=701
-#EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beINsports 2 B
-https://titantv-zirveye-hep-beraber.tiiny.io?url=702
-#EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beINsports 3 B
-https://titantv-zirveye-hep-beraber.tiiny.io?url=703
-#EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beINsports 4 B
-https://titantv-zirveye-hep-beraber.tiiny.io?url=704
-#EXTINF:-1 tvg-name="Spor Smart" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" ,Spor Smart
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinsmarts.m3u8
-#EXTINF:0 tvg-id="Spor Smart 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/spor-smart-hd-tr.png?raw=true" ,TR: Spor Smart 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinsms2.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" ,TR: S Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinss.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" ,TR: S Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinss2.m3u8
-#EXTINF:0 tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor
-http://myteve.online:8080/resplice/wdLIS4d9758INyuX/1746
-#EXTINF:0 tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayint1.m3u8
-#EXTINF:0 tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayint2.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayint3.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ52_WBKvMnfL2d98guywOiC9aJc_zY3mngQ&s" ,TR: Tivibu Spor 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayint4.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinex7.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinex1.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinex2.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinex3.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinex4.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinex5.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1724372877602889728/m0aKq2DY_400x400.jpg" ,TR: Tabii Spor 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1048.xyz/
-https://i.trgoalshls18.cfd/yayinex6.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true" ,TR: Sinevizyon 1
-http://62.210.88.161/gin-trn09/gt-sinevizyon-1/index.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true" ,TR: Sinevizyon 2
-http://62.210.88.161/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true" ,TR: Sinema TV 1
-http://stream.tvcdn.net/diger-eglence/sinema-tv-1.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true" ,TR: Sinema TV 2
-http://stream.tvcdn.net/diger-eglence/sinema-tv-2.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 1
-https://ie.sonyrepairs.com/pr1/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 2
-https://ie.sonyrepairs.com/pr2/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 3
-https://ie.sonyrepairs.com/pr3/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 4
-https://ie.sonyrepairs.com/pr4/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 5
-https://ie.sonyrepairs.com/pr5/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 6
-https://ie.sonyrepairs.com/pr6/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Sky Sport F1
-https://ie.sonyrepairs.com/skspf1/index.m3u8
-#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/futuretech/images/Futuretech/46b106a9-29d2-4997-8eca-4e90e27e061f_180x180_beINLaLiga.es.png" ,BEIN SPORT LA LIGA esp
-https://11streamt11.akamaized.net/FTX10_BEIN_SPORT_LA_LIGA_ESP/index.mpd
-#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/futuretech/images/Futuretech/c142928f-fe36-44b3-a29c-3ec11d824f0a_180x180_beINSports.es.png" ,BEIN SPORTS ESP (US)
-https://11streamt11.akamaized.net/FTX10_BEIN_SPORTS_ESP_US/index.mpd
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,BEIN SPORTS LA LIGA
-https://11streamt11.akamaized.net/FTX8_ES_BEIN_SPORTS_LA_LIGA/index.mpd
-#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/futuretech/images/Futuretech/d350943f-46b4-4fae-b661-ec5c87f652cd_180x180_BeIN_SPORTS_USA_logo_2017.jpg" ,BEIN SPORTS USA
-https://11streamt11.akamaized.net/FTX2_BEIN_SPORTS_USA/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/trt2.png" group-title="TURKEY",TR:TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:NAT GEOGRAPHIC HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/nationalgeo.png" group-title="TURKEY",TR:NAT GEOGRAPHIC HD
+#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz
+https://one.fbf1eb5f21ff67.shop/live/natgeo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:NAT GEOGRAPHIC WILD HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/nationalgeowil.png" group-title="TURKEY",TR:NAT GEOGRAPHIC WILD HD
+#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz
+https://one.fbf1eb5f21ff67.shop/live/natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:DISCOVERY CHANNEL HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/discovery.png" group-title="TURKEY",TR:DISCOVERY CHANNEL HD
