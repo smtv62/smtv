@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR:TRT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt1.png" group-title="TURKEY",TR:TRT 1 HD
@@ -34,6 +33,7 @@ https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png" group-title="TURKEY",TR:BEINSPORTS 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png" group-title="TURKEY",TR:BEINSPORTS 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
@@ -62,6 +62,7 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen4.png" group-title="TURKEY",TR:EXXEN SPORTS 4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen4/4104/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 5  HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen5.png" group-title="TURKEY",TR:EXXEN SPORTS 5  HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen5/4105/playlist.m3u8
@@ -89,6 +90,7 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="TURKEY",TR:TIVIBUSPOR 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibu1/606/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TURKEY",TR:TIVIBUSPOR 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibu2/607/playlist.m3u8
@@ -117,6 +119,7 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi6/4106/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:TRT SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="TURKEY",TR:TRT SPOR HD
+
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:A SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/aspor.png" group-title="TURKEY",TR:A SPOR HD
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
@@ -154,6 +157,7 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:BLOOMBERG HT HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/bloomberg.png" group-title="TURKEY",TR:BLOOMBERG HT HD
 https://bloomberght2.blutv.com/blutv_bloomberght2/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:NTV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/ntv.png" group-title="TURKEY",TR:NTV HD
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:HABER GLOBAL HD" tvg-logo="https://i0.wp.com/resim.yayins.com/haber/haberglobal.png" group-title="TURKEY",TR:HABER GLOBAL HD
@@ -175,3 +179,36 @@ https://one.fbf1eb5f21ff67.shop/live/natgeo/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz
 https://one.fbf1eb5f21ff67.shop/live/natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:DISCOVERY CHANNEL HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/discovery.png" group-title="TURKEY",TR:DISCOVERY CHANNEL HD
+https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BBC EARTH HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/bbcearth.png" group-title="TURKEY",TR:BBC EARTH HD
+#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz
+https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:HISTORY CHANNEL HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/histortychannel.png" group-title="TURKEY",TR:HISTORY CHANNEL HD
+#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz
+https://one.fbf1eb5f21ff67.shop/live/history/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:DMAX HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/dmax.png" group-title="TURKEY",TR:DMAX HD
+https://dmax.blutv.com/blutv_dmax2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TLC HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/tlc.png" group-title="TURKEY",TR:TLC HD
+https://tlc.blutv.com/blutv_tlc_live/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:CIFTCI TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/ciftcitv.png" group-title="TURKEY",TR:CIFTCI TV HD
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN IZ HD" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/beiniz.png" group-title="TURKEY",TR:BEIN IZ HD
+#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz
+https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN BOX OFFICE 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice1.png" group-title="TURKEY",TR:BEIN BOX OFFICE 1 HD
+#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz
+https://one.fbf1eb5f21ff67.shop/live/boxoffice1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN BOX OFFICE 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice2.png" group-title="TURKEY",TR:BEIN BOX OFFICE 2 HD
+#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz
+https://one.fbf1eb5f21ff67.shop/live/boxoffice2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BLUTV PLAY 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png" group-title="TURKEY",TR:BLUTV PLAY 1 HD
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BLUTV PLAY 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay2.png" group-title="TURKEY",TR:BLUTV PLAY 2 HD
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:CARTOON NETWORK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/cartoonnetwork.png" group-title="TURKEY",TR:CARTOON NETWORK HD
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:MINIKA GO HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/gominika.png" group-title="TURKEY",TR:MINIKA GO HD
+https://ythls.armelin.one/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT COCUK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/trtcocuk.png" group-title="TURKEY",TR:TRT COCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
