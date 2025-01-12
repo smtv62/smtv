@@ -1,50 +1,325 @@
-
 #EXTM3U
-#EXTINF:-1 ,Unknown_1
-https://tv.prectv5.sbs/live/sinemayerli.m3u8
-#EXTINF:-1 ,Unknown_2
-https://tv.prectv5.sbslive/sinemayerli2.m3u8
-#EXTINF:-1 ,Unknown_3
-https://tv.prectv5.sbs/live/bsstars.m3u8
-#EXTINF:-1 ,Unknown_4
-https://tv.prectv5.sbs/live/bsfamily.m3u8
-#EXTINF:-1 ,Unknown_5
-https://tv.prectv5.sbs/live/bsturk.m3u8
-#EXTINF:-1 ,Unknown_6
-https://tv.prectv5.sbs/live/sinema2.m3u8
-#EXTINF:-1 ,Unknown_7
-https://tv.prectv5.sbs/live/sinemaaile.m3u8
-#EXTINF:-1 ,Unknown_8
-https://tv.prectv5.sbs/live/sinemaaile2.m3u8
-#EXTINF:-1 ,Unknown_9
-https://tv.prectv5.sbs/live/sinema1001.m3u8
-#EXTINF:-1 ,Unknown_10
-https://tv.prectv5.sbs/live/sinema1002.m3u8
-#EXTINF:-1 ,Unknown_11
-https://tv.prectv5.sbs/live/sinemaaksiyon2.m3u8
-#EXTINF:-1 ,Unknown_12
-https://tv.prectv5.sbs/live/fx.m3u8
-#EXTINF:-1 ,Unknown_13
-https://tv.prectv5.sbs/live/tivi1.m3u8
-#EXTINF:-1 ,Unknown_14
-https://tv.prectv5.sbs/live/tivi2.m3u8
-#EXTINF:-1 ,Unknown_15
-https://tv.prectv5.sbs/live/tivi3.m3u8
-#EXTINF:-1 ,Unknown_16
-https://tv.prectv5.sbs/live/tivi4.m3u8
-#EXTINF:-1 ,Unknown_17
-https://tv.prectv5.sbs/live/ssport.m3u8
-#EXTINF:-1 ,Unknown_18
-https://tv.prectv5.sbs/live/ssport2.m3u8
-#EXTINF:-1 ,Unknown_19
-https://tv.prectv5.sbs/live/smart1.m3u8
-#EXTINF:-1 ,Unknown_20
-https://tv.prectv5.sbs/live/smart2.m3u8
-#EXTINF:-1 ,Unknown_21
-https://tv.prectv5.sbs/live/aspor.m3u8
-#EXTINF:-1 ,Unknown_22
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 ,Unknown_23
-https://tv.prectv5.sbs/live/fbtv.m3u8
-#EXTINF:-1 ,Unknown_24
-https://tv.prectv5.sbs/live/edgesport.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABii SPOR HD" tvg-logo="" group-title="TURCHIA",TR: TABii SPOR HD
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229408
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABii SPOR 1 FHD" tvg-logo="" group-title="TURCHIA",TR: TABii SPOR 1 FHD
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229409
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABii SPOR 2 FHD" tvg-logo="" group-title="TURCHIA",TR: TABii SPOR 2 FHD
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229410
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABii SPOR 3 FHD" tvg-logo="" group-title="TURCHIA",TR: TABii SPOR 3 FHD
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229411
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABii SPOR 4 FHD" tvg-logo="" group-title="TURCHIA",TR: TABii SPOR 4 FHD
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229412
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABii SPOR 5 FHD" tvg-logo="" group-title="TURCHIA",TR: TABii SPOR 5 FHD
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229413
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABii SPOR 6 FHD" tvg-logo="" group-title="TURCHIA",TR: TABii SPOR 6 FHD
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229414
+#EXTINF:-1 tvg-id="" tvg-name="TR*: ATV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR*: ATV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229415
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TRT 1 HD ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229416
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT ⁴ᴷ" tvg-logo="" group-title="TURCHIA",TR: TRT ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229417
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: ATV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229418
+#EXTINF:-1 tvg-id="" tvg-name="TR*: ATV ⁴ᴷ" tvg-logo="" group-title="TURCHIA",TR*: ATV ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229419
+#EXTINF:-1 tvg-id="" tvg-name="TR: Star Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Star Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229420
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro Star ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Euro Star ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229421
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Show Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229422
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Turk ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Show Turk ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229423
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Kanal D ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229424
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro D ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Euro D ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229425
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fox Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Fox Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229426
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilclam ⁴ᴷ" tvg-logo="" group-title="TURCHIA",TR: Yesilclam ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229427
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TV8 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229428
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8.5 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TV8.5 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229429
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Kanal 7 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229430
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 Eu ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Kanal 7 Eu ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229431
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cnn Turk ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Cnn Turk ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229432
+#EXTINF:-1 tvg-id="" tvg-name="TR: Beyaz Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Beyaz Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229433
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Haber ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: A Haber ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229434
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ntv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Ntv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229435
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ulke Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Ulke Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229436
+#EXTINF:-1 tvg-id="" tvg-name="TR: Teve 2 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Teve 2 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229437
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Haber ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Trt Haber ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229438
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Turk ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TRT Turk ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229439
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: A2 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229440
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tgrt Haber ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Tgrt Haber ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229441
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 5 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TV 5 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229442
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Turk ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Haber Turk ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229443
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport 1 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: S Sport 1 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229444
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport 2 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",TR: S Sport 2 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229445
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Exxen ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229446
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Sport S 2 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",TR: Exxen Sport S 2 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229447
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 1 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports 1 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229448
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 2 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports 2 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229449
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 3 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports 3 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229450
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 4 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports 4 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229451
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 5 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports 5 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229452
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports Haber ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports Haber ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229453
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports Max 1 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports Max 1 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229454
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports Max 2 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports Max 2 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229455
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 1 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports 1 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229456
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 2 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports 2 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229457
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 3 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports 3 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229458
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 4 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports 4 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229459
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports Haber ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports Haber ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229460
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports Max 1 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports Max 1 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229461
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports Max 2 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: beIN Sports Max 2 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229462
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIivibu Sport 1 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TIivibu Sport 1 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229463
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Sport 2 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Tivibu Sport 2 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229464
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Sport 3 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Tivibu Sport 3 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229465
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro Sport 2 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Euro Sport 2 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229466
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro Sport 1 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Euro Sport 1 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229467
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sports Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Sports Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229468
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Sport ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TRT Sport ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229469
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Sport 2 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TRT Sport 2 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229470
+#EXTINF:-1 tvg-id="" tvg-name="TR: Galatasaray TV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Galatasaray TV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229471
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bloombert Ht ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Bloombert Ht ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229472
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Global Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Haber Global Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229473
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ulusal Kanal ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Ulusal Kanal ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229474
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akit Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Akit Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229475
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: FB TV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229476
+#EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TJK TV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229477
+#EXTINF:-1 tvg-id="" tvg-name="TR: Idman Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Idman Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229478
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Sport ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: A Sport ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229479
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cay Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Cay Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229480
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal B ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Kanal B ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229481
+#EXTINF:-1 tvg-id="" tvg-name="TR: Mavi Karadeniz ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Mavi Karadeniz ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229482
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kon Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Kon Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229483
+#EXTINF:-1 tvg-id="" tvg-name="TR: Lalegul Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Lalegul Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229484
+#EXTINF:-1 tvg-id="" tvg-name="TR: Semerkand ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Semerkand ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229485
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Max ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Show Max ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229486
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yol Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Yol Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229487
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cem Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Cem Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229488
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Gurme ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Bein Gurme ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229489
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Diyanet ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TRT Diyanet ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229490
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Kurdi ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TRT Kurdi ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229491
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV5 Monde ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TV5 Monde ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229492
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Eu ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TGRT Eu ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229493
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 Kitchen ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: 24 Kitchen ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229494
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: 360 TV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229495
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TLC ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229496
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA ILK OKUL ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TRT EBA ILK OKUL ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229497
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA ORTA OKUL ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TRT EBA ORTA OKUL ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229498
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Eba Lise ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Trt Eba Lise ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229499
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Dream Turk Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229500
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: DREAM TV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229501
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV POP ⁴ᴷ" tvg-logo="" group-title="TURCHIA",TR: KRAL TV POP ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229502
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: KRAL TV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229503
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZIK ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TRT MUZIK ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229504
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: POWER TURK ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229505
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: POWER TV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229506
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1  ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: NR1  ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229507
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 TURK ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: NR1 TURK ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229508
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: NR1 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229509
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Cocuk ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Minika Cocuk ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229510
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Go ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Minika Go ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229511
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nickelodeon ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Nickelodeon ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229512
+#EXTINF:-1 tvg-id="" tvg-name="TR: Niloya Tv ⁴ᴷ" tvg-logo="" group-title="TURCHIA",TR: Niloya Tv ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229513
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nick Jr ⁴ᴷ" tvg-logo="" group-title="TURCHIA",TR: Nick Jr ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229514
+#EXTINF:-1 tvg-id="" tvg-name="TR: Baby Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Baby Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229515
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cbeebies ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Cbeebies ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229516
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Junior ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Disney Junior ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229517
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Xd ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Disney Xd ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229518
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cartoon Network ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Cartoon Network ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229519
+#EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Boomerang ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229520
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Cocuk ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Trt Cocuk ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229521
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ciftci ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Ciftci ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229522
+#EXTINF:-1 tvg-id="" tvg-name="TR: AV TV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: AV TV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229523
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tarih Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Tarih Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229524
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yaban Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Yaban Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229525
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Iz Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Bein Iz Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229526
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Belgesel ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Trt Belgesel ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229527
+#EXTINF:-1 tvg-id="" tvg-name="TR: Davinci Learning ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Davinci Learning ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229528
+#EXTINF:-1 tvg-id="" tvg-name="TR: Chasse & Peche ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Chasse & Peche ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229529
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat History ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Viasat History ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229530
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: DMAX ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229531
+#EXTINF:-1 tvg-id="" tvg-name="TR: IDX ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: IDX ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229532
+#EXTINF:-1 tvg-id="" tvg-name="TR: Animal Planet ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Animal Planet ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229533
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal TV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Kemal Sunal TV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229534
+#EXTINF:-1 tvg-id="" tvg-name="*TR: Empire Cinema  Schedule ⁴ᴷ" tvg-logo="" group-title="TURCHIA",*TR: Empire Cinema  Schedule ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229535
+#EXTINF:-1 tvg-id="" tvg-name="*TR: Empire Cinema TÜRK ⁴ᴷ" tvg-logo="" group-title="TURCHIA",*TR: Empire Cinema TÜRK ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229536
+#EXTINF:-1 tvg-id="" tvg-name="*TR: Empire Cinema 1 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",*TR: Empire Cinema 1 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229537
+#EXTINF:-1 tvg-id="" tvg-name="*TR: Empire Cinema 2 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",*TR: Empire Cinema 2 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229538
+#EXTINF:-1 tvg-id="" tvg-name="*TR: Empire Cinema 3 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",*TR: Empire Cinema 3 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229539
+#EXTINF:-1 tvg-id="" tvg-name="*TR: Empire Cinema 4 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",*TR: Empire Cinema 4 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229540
+#EXTINF:-1 tvg-id="" tvg-name="*TR: Empire Cinema 5 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",*TR: Empire Cinema 5 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229541
+#EXTINF:-1 tvg-id="" tvg-name="*TR: Empire Cinema 6 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",*TR: Empire Cinema 6 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229542
+#EXTINF:-1 tvg-id="" tvg-name="*TR: Empire Cinema 7 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",*TR: Empire Cinema 7 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229543
+#EXTINF:-1 tvg-id="" tvg-name="*TR: Empire Cinema 8 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",*TR: Empire Cinema 8 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229544
+#EXTINF:-1 tvg-id="" tvg-name="*TR: Empire Cinema 9 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",*TR: Empire Cinema 9 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229545
+#EXTINF:-1 tvg-id="" tvg-name="*TR: Empire Cinema 10 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",*TR: Empire Cinema 10 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229546
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Series Vice ⁴ᴷ" tvg-logo="" group-title="TURCHIA",TR: Bein Series Vice ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229547
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Series Sci-Fi ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Bein Series Sci-Fi ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229548
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Series Drama ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Bein Series Drama ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229549
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Series Comedy ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Bein Series Comedy ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229550
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Turk ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Bein Movies Turk ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229551
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Stars ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Bein Movies Stars ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229552
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Premier 2 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Bein Movies Premier 2 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229553
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Premier ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Bein Movies Premier ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229554
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Family ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Bein Movies Family ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229555
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Action ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Bein Movies Action ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229556
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akit Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Akit Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229557
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Para ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: A Para ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229558
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT World ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TRT World ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229559
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV Net ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TV Net ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229560
+#EXTINF:-1 tvg-id="" tvg-name="TR: Halk Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Halk Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229561
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tele 1 ⁴ᴷ" tvg-logo="" group-title="TURCHIA",TR: Tele 1 ⁴ᴷ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229562
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV100 ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: TV100 ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229563
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivi Turk ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Tivi Turk ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229564
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vatan Tv ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: Vatan Tv ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229565
+#EXTINF:-1 tvg-id="" tvg-name="CY: BRT 1 (cyprus)" tvg-logo="" group-title="TURCHIA",CY: BRT 1 (cyprus)
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229566
+#EXTINF:-1 tvg-id="" tvg-name="CY: BRT 2 (cyprus)" tvg-logo="" group-title="TURCHIA",CY: BRT 2 (cyprus)
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229567
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOST TV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: DOST TV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229568
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANADOLU DERNEK TV ᶠᴴᴰ" tvg-logo="" group-title="TURCHIA",TR: ANADOLU DERNEK TV ᶠᴴᴰ
+http://cdn.santefisio.cloudns.ph:25461/Fratello7/Barrsecondiglian5/229569
