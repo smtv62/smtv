@@ -60,7 +60,7 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/fenerbahce-tv-tr.png?raw=true" ,TR: FB TV
 http://50.7.144.122:1935/livetv/fbtv.stream/sec-f5-v1-a1.m3u8
 #EXTINF:0 tvg-id="a Spor" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/a-spor-tr.png?raw=true" ,TR: A Spor
-http://116.202.238.88/ASPOR_TR/index.m3u8
+http://50.7.144.122:1935/livetv/aspor.stream/sec-f5-v1-a1.m3u8
 #EXTINF:0 tvg-id="TRT Spor" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-hd-tr.png?raw=true" ,TR: TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRT 3 Spor" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-3-spor-tr.png?raw=true" ,TR: TRT 3 Spor
