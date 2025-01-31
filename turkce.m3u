@@ -16,8 +16,7 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:0 tvg-id="Beyaz TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,TR: Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0 tvg-id="FX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
-https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/fx/fx_720p.m3u8?st=RyLE-5wQpK3o1zfa3VSlNA%26e=1738371747%26uid=25510265%26sid=VAAwbfUCDqJSTQ%26userid=ed23797%26reqid=df1ab2306b8b813f9332164729b6bbdc%26tmode=1
-#EXTINF:0 tvg-id="DMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" ,TR: DMAX
+https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/fx/fx_1080p.m3u8?st=RyLE-5wQpK3o1zfa3VSlNA%26e=1738371747%26uid=25510265%26sid=VAAwbfUCDqJSTQ%26userid=ed23797%26reqid=df1ab2306b8b813f9332164729b6bbdc%26tmode=1#EXTINF:0 tvg-id="DMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" ,TR: DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0 tvg-id="TLC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tlc-ca.png?raw=true" ,TR: TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
