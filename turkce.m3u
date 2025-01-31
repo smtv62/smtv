@@ -16,7 +16,8 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:0 tvg-id="Beyaz TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,TR: Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0 tvg-id="FX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
-https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/fx/fx_1080p.m3u8?st=RyLE-5wQpK3o1zfa3VSlNA%26e=1738371747%26uid=25510265%26sid=VAAwbfUCDqJSTQ%26userid=ed23797%26reqid=df1ab2306b8b813f9332164729b6bbdc%26tmode=1#EXTINF:0 tvg-id="DMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" ,TR: DMAX
+https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/fx/fx_1080p.m3u8?st=qf9OjlPq6Z2-tM3QfM9FVg%26e=1738373096%26uid=25510265%26sid=WABFbfUCDzZR_w%26userid=ed23797%26reqid=5a12c329d416afbc2de85989fa1a817f%26tmode=1
+#EXTINF:0 tvg-id="DMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" ,TR: DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0 tvg-id="TLC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tlc-ca.png?raw=true" ,TR: TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
@@ -46,18 +47,20 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/nr1-tr.png?raw=true" ,TR: NR 1 Türk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/powerturk-tr.png?raw=true" ,TR: PowerTürk
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/powerturk-tr.png?raw=true" ,TR: PowerTürk Love
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/powerturk-tr.png?raw=true" ,TR: PowerTürk Dans
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/powerturk-tr.png?raw=true" ,TR: PowerTürk Akustik
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/powerturk-tr.png?raw=true" ,TR: PowerTürk Taptaze
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/powerturk-tr.png?raw=true" ,TR: PowerTürk Slow
-https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cdn.worldvectorlogo.com/logos/discovery-channel-4.svg" ,TR: Discovery
+https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/discoverychannel/discoverychannel_1080p.m3u8?st=RQnPpJsHFbKWXHxnj8qkLA%26e=1738372607%26uid=25510265%26sid=nQA9bfUCDsBScQ%26userid=ed23797%26reqid=1f5c1cfab37d0662b129c56ff971f9bd%26tmode=1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" ,TR: ID
+https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/discoveryscience/discoveryscience_1080p.m3u8?st=VUNCGtBHhOjGHvUNRuHEJg%26e=1738372869%26uid=25510265%26sid=qwBBbfUCDr5Sww%26userid=ed23797%26reqid=c2a3790d7122ead760eb92f96b3728bc%26tmode=1
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest?cb=20171204084854" ,TR:BBC Earth
+https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/bbcearth/bbcearth_1080p.m3u8?st=cUqvsfPKsRMvaoJrAUapsA%26e=1738372872%26uid=25510265%26sid=rABBbfUCDstSsw%26userid=ed23797%26reqid=f133202bafab7da6e0c6631a7f73e0be%26tmode=1
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,TR: National Geographic
+https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/natgeo/natgeo_1080p.m3u8?st=Iub_1VzpH_6UUEqP5HEjew%26e=1738372870%26uid=25510265%26sid=dwBBbfUCEMRPdQ%26userid=ed23797%26reqid=bc1906a647c33c764b6ec05e0e387d3f%26tmode=1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642" ,TR: Yaban
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+#EXTINF:0 tvg-id="Love Nature" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/love-nature-ca.png?raw=true" ,TR: Love Nature Multidil
+http://95.67.12.82:9098
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0HlPwO8VIKS7p8oHE_CBzTyx8LrN1uQdrg&s" ,TR: Life Tv
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:0 tvg-id="FB TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/fenerbahce-tv-tr.png?raw=true" ,TR: FB TV
 http://50.7.144.122:1935/livetv/fbtv.stream/sec-f5-v1-a1.m3u8
 #EXTINF:0 tvg-id="a Spor" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/a-spor-tr.png?raw=true" ,TR: A Spor
@@ -74,12 +77,6 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TGRT Belgesel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tgrt-belgesel-tr.png?raw=true" ,TR: TGRT Belgesel
 http://50.7.144.122:1935/livetv/tgrtbelgesel.stream/sec-f5-v1-a1.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642" ,TR: Yaban
-http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
-#EXTINF:0 tvg-id="Love Nature" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/love-nature-ca.png?raw=true" ,TR: Love Nature Multidil
-http://95.67.12.82:9098
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0HlPwO8VIKS7p8oHE_CBzTyx8LrN1uQdrg&s" ,TR: Life Tv
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports Haber
 http://50.7.144.122:1935/livetv/beinsporthaber.stream/sec-f5-v1-a1.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 1
