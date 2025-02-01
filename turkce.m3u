@@ -16,7 +16,7 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:0 tvg-id="Beyaz TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,TR: Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0 tvg-id="FX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
-https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/fx/fx_1080p.m3u8?st=qf9OjlPq6Z2-tM3QfM9FVg%26e=1738373096%26uid=25510265%26sid=WABFbfUCDzZR_w%26userid=ed23797%26reqid=5a12c329d416afbc2de85989fa1a817f%26tmode=1
+https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/fx/fx_1080p.m3u8?st=mYeIMgEPX2XZ-PiHmMhl9Q%26e=1738434238%26uid=25510265%26sid=FADqcPUCCSpaMw%26userid=ed23797%26reqid=30a9d5686bb4bb8dd91a955efc65199d%26tmode=1
 #EXTINF:0 tvg-id="DMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" ,TR: DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0 tvg-id="TLC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tlc-ca.png?raw=true" ,TR: TLC
@@ -46,13 +46,13 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/nr1-tr.png?raw=true" ,TR: NR 1 Türk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.worldvectorlogo.com/logos/discovery-channel-4.svg" ,TR: Discovery
-https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/discoverychannel/discoverychannel_1080p.m3u8?st=RQnPpJsHFbKWXHxnj8qkLA%26e=1738372607%26uid=25510265%26sid=nQA9bfUCDsBScQ%26userid=ed23797%26reqid=1f5c1cfab37d0662b129c56ff971f9bd%26tmode=1
+https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/discoverychannel/discoverychannel_1080p.m3u8?st=DqhsaOuuvqBpDw_vkx1ZaA%26e=1738434379%26uid=25510265%26sid=ZgDscPUCElNWkQ%26userid=ed23797%26reqid=3f58677f384b3a67d2693ae20317f536%26tmode=1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" ,TR: ID
-https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/discoveryscience/discoveryscience_1080p.m3u8?st=VUNCGtBHhOjGHvUNRuHEJg%26e=1738372869%26uid=25510265%26sid=qwBBbfUCDr5Sww%26userid=ed23797%26reqid=c2a3790d7122ead760eb92f96b3728bc%26tmode=1
+https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/discoveryscience/discoveryscience_1080p.m3u8?st=1Kw5BgwiPG2S4ae9HCfxGQ%26e=1738434383%26uid=25510265%26sid=TwDscPUCDGNThQ%26userid=ed23797%26reqid=f1cd1e5d3d0a8196f75e8259b6041f64%26tmode=1
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest?cb=20171204084854" ,TR:BBC Earth
-https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/bbcearth/bbcearth_1080p.m3u8?st=cUqvsfPKsRMvaoJrAUapsA%26e=1738372872%26uid=25510265%26sid=rABBbfUCDstSsw%26userid=ed23797%26reqid=f133202bafab7da6e0c6631a7f73e0be%26tmode=1
+https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/bbcearth/bbcearth_1080p.m3u8?st=Gijzj-h7wH-mxP9TtZCH_g%26e=1738434314%26uid=25510265%26sid=GADrcPUCCVVakw%26userid=ed23797%26reqid=ffb467f5e3e4cc243a628d30f1f1a1f9%26tmode=1
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,TR: National Geographic
-https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/natgeo/natgeo_1080p.m3u8?st=Iub_1VzpH_6UUEqP5HEjew%26e=1738372870%26uid=25510265%26sid=dwBBbfUCEMRPdQ%26userid=ed23797%26reqid=bc1906a647c33c764b6ec05e0e387d3f%26tmode=1
+https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/natgeo/natgeo_1080p.m3u8?st=OHDIrz3CcT2tgO2qDijHNA%26e=1738434381%26uid=25510265%26sid=GQDscPUCCVlafw%26userid=ed23797%26reqid=c76e8d3cf4eb3034e877e1e8e336472d%26tmode=1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642" ,TR: Yaban
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:0 tvg-id="Love Nature" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/love-nature-ca.png?raw=true" ,TR: Love Nature Multidil
