@@ -10,15 +10,13 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:0 tvg-id="SHOW TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-tr.png?raw=true" ,TR: SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0 tvg-id="ATV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" ,TR: ATV
-https://tv.arectv11.sbs/live/atv1.m3u8
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="NOW.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/now-tr.png?raw=true" ,TR: NOW
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:0 tvg-id="BEYAZ TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,TR: Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0 tvg-id="FX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
 https://tv.arectv11.sbs/live/fx.m3u8
-#EXTINF:0 tvg-id="FX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
-https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/fx/fx_1080p.m3u8?st=mYeIMgEPX2XZ-PiHmMhl9Q%26e=1738434238%26uid=25510265%26sid=FADqcPUCCSpaMw%26userid=ed23797%26reqid=30a9d5686bb4bb8dd91a955efc65199d%26tmode=1
 #EXTINF:0 tvg-id="DMAX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" ,TR: DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0 tvg-id="TLC.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tlc-ca.png?raw=true" ,TR: TLC
@@ -49,8 +47,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:0 tvg-id="DISCOVERY CHANNEL HD.tr" tvg-logo="https://cdn.worldvectorlogo.com/logos/discovery-channel-4.svg" ,TR: Discovery Science
 https://tv.arectv11.sbs/live/discs.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" ,TR: ID
-https://hypnoss.shop/dsgo/play.m3u8?v=https://dsmartgo-live.ercdn.net/discoveryscience/discoveryscience_1080p.m3u8?st=1Kw5BgwiPG2S4ae9HCfxGQ%26e=1738434383%26uid=25510265%26sid=TwDscPUCDGNThQ%26userid=ed23797%26reqid=f1cd1e5d3d0a8196f75e8259b6041f64%26tmode=1
 #EXTINF:0 tvg-id="VIASAT HISTORY HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/historia-es.png?raw=true" ,TR: History Channel
 https://tv.arectv11.sbs/live/history.m3u8
 #EXTINF:0 tvg-id="VIASAT EXPLORE.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/viasat-history-rs.png?raw=true" ,TR: Viasat History
