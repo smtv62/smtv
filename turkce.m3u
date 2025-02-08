@@ -39,10 +39,49 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png" ,TR: SüperTürk Max
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10" ,TR: Tabii Tv
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVsaGh_5jXs7rMmxu24dQGpzCLkqZeP4rXtA&s" ,TR:Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:-1 tvg-name="Sinema TV 1001"tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7eSiclb5WaW3V6gOBkoVZv0wFMXMJTT32jpeXGeQeh-VrnAelNm3G2HSY&s=10"group-title="TR > Sinema":http-referrer="":http-user-agent="",Sinema TV 1001
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432476
+#EXTINF:-1 tvg-name="Sinema TV 2"tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWmJDjoHdPkD8U5PAt1aEEzbeGnkrQk7k7w&s"group-title="TR > Sinema":http-referrer="":http-user-agent="",Sinema TV 2
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432478
+#EXTINF:-1 tvg-name="Sinema TV Aile"tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png"group-title="TR > Sinema":http-referrer="":http-user-agent="",Sinema TV Aile
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432480
+#EXTINF:-1 tvg-name="Sinema TV Komedi 2"tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png"group-title="TR > Sinema":http-referrer="":http-user-agent="",Sinema TV Komedi 2
+https://tv.arectv11.sbs/live/sinemaaile2.m3u8
+#EXTINF:-1 tvg-name="Sinema TV Aksiyon"tvg-id="sinemaaksiyonhd.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAcm0fLwFlXa7YvhTphxCc5UoJWWDhkQ4IA&s"group-title="TR > Sinema":http-referrer="":http-user-agent="",Sinema TV Aksiyon
+http://265.purstream.net:80/Murat_polatli/k5LnpQC94w/136169
+#EXTINF:-1 tvg-name="Sinema TV Aksiyon 2"tvg-id="sinemaaksiyon2hd.tr"tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=579"group-title="TR > Sinema":http-referrer="":http-user-agent="",Sinema TV Aksiyon 2
+http://265.purstream.net:80/Murat_polatli/k5LnpQC94w/136170
+
+#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082021/01_0.png?ltUx4PBAcnrPKk2agIzALKDUyHAUBcII&itok=39Tj4DyG" ,TR: TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="NR1 DAMAR HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/nr1-damar-tr.png?raw=true" ,TR: NR 1 Damar
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c125866ac31da06187d6" ,TR: Power Türk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="PowerTürk Akustik"tvg-id="Muzik_PowerTurkAkustik"tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2542.png"group-title="TR > Müzik":http-referrer="":http-user-agent="",PowerTürk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="PowerTürk Slow"tvg-id="Muzik_PowerTurkSlow"tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2577.png"group-title="TR > Müzik":http-referrer="":http-user-agent="",PowerTürk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="PowerTürk Taptaze"tvg-id="Muzik_PowerTurkTaptaze"tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2534.png"group-title="TR > Müzik":http-referrer="":http-user-agent="",PowerTürk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Milyon TV"tvg-id="Muzik_MilyonTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60900db7866ac318488bc30f"group-title="TR > Müzik":http-referrer="":http-user-agent="",Milyon TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1 tvg-name="Kral Pop"tvg-id="Muzik_KralPop"tvg-logo="https://canlitv.center/channels/kral-pop-tv.png"group-title="TR > Müzik":http-referrer="":http-user-agent="",Kral Pop
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-name="NumberOne Türk"tvg-id="Muzik_NumberOneTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415bb8866ac31d980eb377"group-title="TR > Müzik":http-referrer="":http-user-agent="",NumberOne Türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="NumberOne TV"tvg-id="Muzik_NumberOneTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415748866ac31d980eb317"group-title="TR > Müzik":http-referrer="":http-user-agent="",NumberOne TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="NumberOne Aşk"tvg-id="Muzik_NumberOneAsk"tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg"group-title="TR > Müzik":http-referrer="":http-user-agent="",NumberOne Aşk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-name="NumberOne Damar"tvg-id="Muzik_NumberOneDamar"tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/07/N1_TR_Damar.png"group-title="TR > Müzik":http-referrer="":http-user-agent="",NumberOne Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-name="NumberOne Dance"tvg-id="Muzik_NumberOneDance"tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_Dance-1-768x768.png"group-title="TR > Müzik":http-referrer="":http-user-agent="",NumberOne Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/nr1-tr.png?raw=true" ,TR: NR 1 Türk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:0 tvg-id="DISCOVERY CHANNEL HD.tr" tvg-logo="https://cdn.worldvectorlogo.com/logos/discovery-channel-4.svg" ,TR: Discovery Science
