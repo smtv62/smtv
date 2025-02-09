@@ -45,6 +45,8 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7eSiclb5WaW3V6gOBkoVZv0wFMXMJTT32jpeXGeQeh-VrnAelNm3G2HSY&s=10" ,Sinema TV 1001
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432476
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
+https://t.1ff0569977844459.workers.dev/static/bs1.m3u8
 #EXTINF:-1 tvg-id="SİNEMA TV 2 HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWmJDjoHdPkD8U5PAt1aEEzbeGnkrQk7k7w&s" ,Sinema TV 2
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432478
 #EXTINF:-1 tvg-id="SİNEMA AİLE HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" ,Sinema TV Aile
