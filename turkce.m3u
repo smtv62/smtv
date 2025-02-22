@@ -16,7 +16,7 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:0 tvg-id="BEYAZ TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,TR: Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0 tvg-id="FX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
-https://tv.arectv11.sbs/live/fx.m3u8
+http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/111480.m3u8?play_token=
 #EXTINF:0 tvg-id="DMAX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" ,TR: DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0 tvg-id="TLC.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tlc-ca.png?raw=true" ,TR: TLC
@@ -51,8 +51,6 @@ https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7eSiclb5WaW3V6gOBkoVZv0wFMXMJTT32jpeXGeQeh-VrnAelNm3G2HSY&s=10" ,Sinema TV 1001
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432476
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
-https://t.1ff0569977844459.workers.dev/static/bs1.m3u8
 #EXTINF:-1 tvg-id="SİNEMA TV 2 HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWmJDjoHdPkD8U5PAt1aEEzbeGnkrQk7k7w&s" ,Sinema TV 2
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432478
 #EXTINF:-1 tvg-id="SİNEMA AİLE HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" ,Sinema TV Aile
@@ -64,17 +62,17 @@ http://265.purstream.net:80/Murat_polatli/k5LnpQC94w/136169
 #EXTINF:-1 tvg-id="SİNEMA AKSİYON 2 HD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=579" ,Sinema TV Aksiyon 2
 http://265.purstream.net:80/Murat_polatli/k5LnpQC94w/136170
 #EXTINF:0 tvg-id="DISCOVERY CHANNEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/discovery-science-ca.png?raw=true" ,TR: Discovery Science
-https://tv.arectv11.sbs/live/discs.m3u8
+http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/3397.m3u8?play_token=
 #EXTINF:0 tvg-id="VIASAT HISTORY HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/historia-es.png?raw=true" ,TR: History Channel
-https://tv.arectv11.sbs/live/history.m3u8
+http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/3389.m3u8?play_token=
 #EXTINF:0 tvg-id="VIASAT EXPLORE.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/viasat-history-rs.png?raw=true" ,TR: Viasat History
 https://tv.arectv11.sbs/live/viasatexplore.m3u8
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-bbc-earth-in.png?raw=true" ,TR:BBC Earth
-https://tv.arectv11.sbs/live/bbc.m3u8
+http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/727450.m3u8?play_token=
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,TR: National Geographic
-https://tv.arectv11.sbs/live/natgeo.m3u8
+http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/3393.m3u8?play_token=
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,TR: Nat Geo Wild
-https://tv.arectv11.sbs/live/natgeowild.m3u8
+http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/3392.m3u8?play_token=
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642" ,TR: Yaban
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:0 tvg-id="LOVE NATURE HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/love-nature-ca.png?raw=true" ,TR: Love Nature Multidil
@@ -107,6 +105,8 @@ http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
 https://metvmetv.tiiny.io/?id=1363827223&e=.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
 https://koprulu1.global.ssl.fastly.net/app2/rectv2.m3u8/?id=bs1
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
+http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/664790.m3u8?play_token=
 #EXTINF:-1 tvg-id="139" tvg-name="Spor Smart 1" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png" ,Spor Smart 1
 https://v.arectv11.sbs/static/smart1.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="Spor Smart 2" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png" ,Spor Smart 2
