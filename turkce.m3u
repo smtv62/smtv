@@ -49,6 +49,8 @@ http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-sinema-keyfi.png" ,TR:SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRul6Sm5YjJbkBXe5VAgavooK-gHNJWLcitmg&s" ,TR:Teleon
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teleonmediagroups.flv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7eSiclb5WaW3V6gOBkoVZv0wFMXMJTT32jpeXGeQeh-VrnAelNm3G2HSY&s=10" ,Sinema TV 1001
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432476
 #EXTINF:-1 tvg-id="SİNEMA TV 2 HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWmJDjoHdPkD8U5PAt1aEEzbeGnkrQk7k7w&s" ,Sinema TV 2
