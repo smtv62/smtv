@@ -11,6 +11,8 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0 tvg-id="ATV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" ,TR: ATV
 https://c.fulltvizle.com/aytv/index.m3u8
+#EXTINF:0 tvg-id="ATV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" ,TR: ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:0 tvg-id="NOW.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/now-tr.png?raw=true" ,TR: NOW
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:0 tvg-id="BEYAZ TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,TR: Beyaz TV
@@ -56,7 +58,7 @@ http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/3397.m3u8?play_token=
 #EXTINF:0 tvg-id="VIASAT HISTORY HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/historia-es.png?raw=true" ,TR: History Channel
 http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/3389.m3u8?play_token=
 #EXTINF:0 tvg-id="VIASAT EXPLORE.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/viasat-history-rs.png?raw=true" ,TR: Viasat History
-https://tv.arectv11.sbs/live/viasatexplore.m3u8
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/32589
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-bbc-earth-in.png?raw=true" ,TR:BBC Earth
 http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/727450.m3u8?play_token=
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,TR: National Geographic
