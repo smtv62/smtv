@@ -74,7 +74,7 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:0 tvg-id="FB TV.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/fenerbahce-tv-tr.png?raw=true" ,TR: FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
 #EXTINF:0 tvg-id="A SPOR HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/a-spor-tr.png?raw=true" ,TR: A Spor
-https://tv.arectv13.sbs/live/aspor.m3u8
+https://217.30.11.74/e/158.m3u8
 #EXTINF:0 tvg-id="TRT SPOR HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-hd-tr.png?raw=true" ,TR: TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRT 3.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-3-spor-tr.png?raw=true" ,TR: TRT 3 Spor
@@ -100,7 +100,7 @@ https://koprulu1.global.ssl.fastly.net/app2/rectv2.m3u8/?id=bs1
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
 http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/664790.m3u8?play_token=
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErjZujaIDxz6nuG3ZfOKlwU4P0T3q_seMEQ&s" ,TR: Tabii Spor
-https://v.arectv13.sbs/static/tabi.m3u8
+http://cf.1575-cdn.me:80/857ef05e6513D2/ae4ab944fc/1069950
 #EXTINF:-1 tvg-id="139" tvg-name="Spor Smart 1" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png" ,Spor Smart 1
 https://217.30.11.74/e/155.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="Spor Smart 2" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png" ,Spor Smart 2
