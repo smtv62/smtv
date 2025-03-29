@@ -87,16 +87,18 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="HT SPOR.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" ,TR: HT Spor
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
-#EXTINF:0 tvg-id="HT SPOR.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,TR: Exxen
-https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex1.m3u8
+#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandfetch.com%2Fcbcsport.az&psig=AOvVaw3IGXcHbRsbqD09UdAqDoxW&ust=1743338246864000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPie-Punr4wDFQAAAAAdAAAAABAE" ,TR: CBC Sport
+https://live3.cdn-canlitv.com/cbcsports.m3u8?anahtar=XOtediEeNbwoq-wOo2KlYA&sure=1743273290&ip=188.58.124.145
 #EXTINF:0 tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" ,TR: TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TGRT Belgesel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tgrt-belgesel-tr.png?raw=true" ,TR: TGRT Belgesel
 http://50.7.144.122:1935/livetv/tgrtbelgesel.stream/sec-f5-v1-a1.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports Haber
-http://50.7.144.122:1935/livetv/beinsporthaber.stream/sec-f5-v1-a1.m3u8
+https://cdn11.canlitv.vip/beinsporthaber.m3u8?tkn=w5LANQ-iZjeGdSyucbe29A&tms=1743265060&hst=tv.canlitv.vip&ip=188.58.124.145
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
+#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
+http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/315720
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://k.mevzuhls11.cfd/yayinzirve.m3u8&a=&aa=k.mevzuhls11.cfd
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
@@ -145,28 +147,6 @@ https://tv.arectv29.sbs/static/tabi4.m3u8
 https://tv.arectv29.sbs/static/tabi5.m3u8
 #EXTINF:0 tvg-logo="https://begenal.shop//resim/galeri_MTY3N_15.png" ,TR: Tabii Spor 6
 https://tv.arectv29.sbs/static/tabi6.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 1
-https://ie.sonyrepairs.com/pr1/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 2
-https://ie.sonyrepairs.com/pr2/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 3
-https://ie.sonyrepairs.com/pr3/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 4
-https://ie.sonyrepairs.com/pr4/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 5
-https://ie.sonyrepairs.com/pr5/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Premiere 6
-https://ie.sonyrepairs.com/pr6/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,UK: Sky Sport F1
-https://ie.sonyrepairs.com/skspf1/index.m3u8
-#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/futuretech/images/Futuretech/46b106a9-29d2-4997-8eca-4e90e27e061f_180x180_beINLaLiga.es.png" ,BEIN SPORT LA LIGA esp
-https://11streamt11.akamaized.net/FTX10_BEIN_SPORT_LA_LIGA_ESP/index.mpd
-#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/futuretech/images/Futuretech/c142928f-fe36-44b3-a29c-3ec11d824f0a_180x180_beINSports.es.png" ,BEIN SPORTS ESP (US)
-https://11streamt11.akamaized.net/FTX10_BEIN_SPORTS_ESP_US/index.mpd
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" ,BEIN SPORTS LA LIGA
-https://11streamt11.akamaized.net/FTX8_ES_BEIN_SPORTS_LA_LIGA/index.mpd
-#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/futuretech/images/Futuretech/d350943f-46b4-4fae-b661-ec5c87f652cd_180x180_BeIN_SPORTS_USA_logo_2017.jpg" ,BEIN SPORTS USA
-https://11streamt11.akamaized.net/FTX2_BEIN_SPORTS_USA/index.mpd
 #EXTINF:0 tvg-id="TRT MÜZİK.tr" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082021/01_0.png?ltUx4PBAcnrPKk2agIzALKDUyHAUBcII&itok=39Tj4DyG" ,TR: TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="NR1 DAMAR HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/nr1-damar-tr.png?raw=true" ,TR: NR 1 Damar
