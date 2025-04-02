@@ -10,7 +10,7 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:0 tvg-id="SHOW TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-tr.png?raw=true" ,TR: SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0 tvg-id="ATV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" ,TR: ATV
-https://c.fulltvizle.com/aytv/index.m3u8
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:0 tvg-id="ATV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" ,TR: ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:0 tvg-id="NOW.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/now-tr.png?raw=true" ,TR: NOW
