@@ -18,7 +18,7 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:0 tvg-id="BEYAZ TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,TR: Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0 tvg-id="FX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
-http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/111480.m3u8?play_token=
+https://dealsrus.cyou/static/fx/index.m3u8?md5=lCC3LgV7ocZ7vMyudUzyvw&expires=1744752847
 #EXTINF:0 tvg-id="FX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
 http://norsvpx.top:8080/231679575500969074/1511679575500969/57942
 #EXTINF:0 tvg-id="DMAX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" ,TR: DMAX
@@ -86,15 +86,15 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1769
 #EXTINF:0 tvg-id="DISCOVERY CHANNEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/discovery-science-ca.png?raw=true" ,TR: Discovery Science
 http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/3397.m3u8?play_token=
 #EXTINF:0 tvg-id="VIASAT HISTORY HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/historia-es.png?raw=true" ,TR: History Channel
-http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/3389.m3u8?play_token=
+https://mybestdesigns.store/static/historychannel/index.m3u8?md5=jhXAtmPlGdcZx_InGBqcyA&expires=1744753075
 #EXTINF:0 tvg-id="VIASAT EXPLORE.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/viasat-history-rs.png?raw=true" ,TR: Viasat History
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/32589
+https://dynamicvision.top/static/viasathistory/index.m3u8?md5=pXW-JsEJHwaqUDzfTecgpA&expires=1744752948
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-bbc-earth-in.png?raw=true" ,TR:BBC Earth
-http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/727450.m3u8?play_token=
+https://dealsrus.cyou/static/bbcearth/index.m3u8?md5=t-B0iXTKWctJ1JJ3uYq4Sg&expires=1744753238
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,TR: National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,TR: Nat Geo Wild
-http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/3392.m3u8?play_token=
+https://momsinlove.mom/static/natgeowild/index.m3u8?md5=h4GPdWCKm6k5ZaWkSm_EfQ&expires=1744753163
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642" ,TR: Yaban
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:0 tvg-id="LOVE NATURE HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/love-nature-ca.png?raw=true" ,TR: Love Nature Multidil
