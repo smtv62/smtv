@@ -55,34 +55,6 @@ https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRul6Sm5YjJbkBXe5VAgavooK-gHNJWLcitmg&s" ,TR:Teleon
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teleonmediagroups.flv
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d76fd2683c5c3a355f92d2e71afc5.png" ,TR: beIN Box Office 3
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/538
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/f35c4aa1c5be07033c105aa2a264ee99.png" ,TR: beIN Box Office Turk
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/539
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ca1d2bb923338f5d520918b981135d91.png" ,TR: beIN Movies Action
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1761
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/75e47808eb64b20e1611e171c8a17339.png" ,TR: beIN Movies Family
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1763
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4c2308f19e292f658c25f7eeb320302c.png" ,TR: beIN Movies Premiere
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1764
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8132ccbeac2354ea63bf6b409a16a261.png" ,TR: beIN Movies Premiere 2
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1765
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56d0118fa3eedb7b7ec361b78a1cd3e4.png" ,TR: beIN Movies Stars
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1766
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cdb8893f36235adb4e32d276d5a5d3fb.png" ,TR: beIN Movies Turk
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1767
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d248d175de659f0813a02e9134d18b6b.png" ,TR: beIN Series 1
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/298429
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b356d48dffa753ebf6b5ae6f31ff71c0.png" ,TR: beIN Series 2
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/298427
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ad65c62b7bfe6448570dfe2996b17f04.png" ,TR: beIN Series 3
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/298428
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9abe75f1c9ee476a5d033cf5ceca6cad.png" ,TR: beIN Series 4
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/298430
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/adf92f2916a0009d7b4f31870656b093.png" ,TR: beIN Series Comedy
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1768
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e62d82be35a5c21cae0c62a78dbf8cd3.png" ,TR: beIN Series Drama
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1769
 #EXTINF:0 tvg-id="DISCOVERY CHANNEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/discovery-science-ca.png?raw=true" ,TR: Discovery Science
 http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/3397.m3u8?play_token=
 #EXTINF:0 tvg-id="VIASAT HISTORY HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/historia-es.png?raw=true" ,TR: History Channel
@@ -124,15 +96,28 @@ http://50.7.144.122:1935/livetv/tgrtbelgesel.stream/sec-f5-v1-a1.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports Haber
 http://e8379.cakir20.xyz:80/halil.englad4/ayDnT.tNx-1/37165
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
-http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
-http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/315720
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
-https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://bbb.mevzuhls30.cfd/yayinb2.m3u8&a=&aa=bbb.mevzuhls30.cfd
-#EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,TR: beIN Sports 1
-https://hlsssssssssss.helekurbankardes.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-id="BEİN_SPORTS_1_(ZİRVE)" tvg-name="BEİN SPORTS 1 (ZİRVE)" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png" group-title="TRGOALS",BEİN SPORTS 1 (TRGOALS)
+#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
+#EXTVLCOPT:http-origin=https://trgoals1281.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://h0.7fdc5a6527bc3dd5.workers.dev/yayin1.m3u8
+#EXTINF:-1 tvg-id="BEİN_SPORTS_1_(ZİRVE)" tvg-name="BEİN SPORTS 2 (ZİRVE)" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png" group-title="TRGOALS",BEİN SPORTS 2 (TVCADDE)
+#EXTVLCOPT:http-referrer=https://tvcadde26.com
+#EXTVLCOPT:http-origin=https://tvcadde26.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://bbb.mevzuhls30.cfd/yayinb2.m3u8
+#EXTINF:-1 tvg-id="BEİN_SPORTS_1_(1)" tvg-name="BEİN SPORTS 1 (1)" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png" group-title="TRGOALS",BEİN SPORTS 1 (TVCADDE)
+#EXTVLCOPT:http-referrer=https://tvcadde26.com
+#EXTVLCOPT:http-origin=https://tvcadde26.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://bbb.mevzuhls30.cfd/yayinzirve.m3u8
+#EXTINF:-1 tvg-id="BEİN_SPORTS_1_(ZİRVE)" tvg-name="BEİN SPORTS 1 (ZİRVE)" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png" group-title="TRGOALS",BEİN SPORTS 1 (TRGOALS)
+#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
+#EXTVLCOPT:http-origin=https://trgoals1281.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://h0.7fdc5a6527bc3dd5.workers.dev/yayinb2.m3u8
+
 #EXTINF:-1 tvg-id="141" tvg-name="S SPORT 1" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg" ,S SPORT 1
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="140" tvg-name="S SPORT 2" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg" ,S SPORT 2
