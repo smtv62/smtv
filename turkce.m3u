@@ -111,27 +111,28 @@ https://gknnowtv.onrender.com/bein4.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1312.xyz
 #EXTVLCOPT:http-origin=https://trgoals1312.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://a0.4928d54d950ee70q41.click/yayin1.m3u8
-#EXTINF:-1 tvg-id="BEİN_SPORTS_1_(ZİRVE)" tvg-name="BEİN SPORTS 2 (ZİRVE)" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png" group-title="TRGOALS",BEİN SPORTS 2 (TVCADDE)
-#EXTVLCOPT:http-referrer=https://tvcadde27.com
-#EXTVLCOPT:http-origin=https://tvcadde27.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://xn--7caaa.mevzuhls36.cfd/yayinb2.m3u8
-#EXTINF:-1 tvg-id="BEİN_SPORTS_1_(1)" tvg-name="BEİN SPORTS 1 (1)" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png" group-title="TRGOALS",BEİN SPORTS 1 (TVCADDE)
-#EXTVLCOPT:http-referrer=https://tvcadde27.com
-#EXTVLCOPT:http-origin=https://tvcadde27.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://xn--7caaa.mevzuhls36.cfd/yayinzirve.m3u8
+https://b0.4928d54d950ee70q42.click/yayin1.m3u8
 #EXTINF:-1 tvg-id="BEİN_SPORTS_1_(ZİRVE)" tvg-name="BEİN SPORTS 1 (ZİRVE)" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png" group-title="TRGOALS",BEİN SPORTS 1 (TRGOALS)
 #EXTVLCOPT:http-referrer=https://trgoals1312.xyz
 #EXTVLCOPT:http-origin=https://trgoals1312.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://a0.4928d54d950ee70q41.click/yayinb2.m3u8
+https://b0.4928d54d950ee70q42.click/yayinb2.m3u8
+#EXTINF:-1 tvg-id="BEİN_SPORTS_1_(1)" tvg-name="BEİN SPORTS 1 (1)" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png" group-title="TRGOALS",BEİN SPORTS 1 (TVCADDE)
+#EXTVLCOPT:http-referrer=https://tvcadde27.com
+#EXTVLCOPT:http-origin=https://tvcadde27.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://xn--tdaaa.mevzuhls37.cfd/yayinzirve.m3u8
+#EXTINF:-1 tvg-id="BEİN_SPORTS_1_(ZİRVE)" tvg-name="BEİN SPORTS 2 (ZİRVE)" tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png" group-title="TRGOALS",BEİN SPORTS 2 (TVCADDE)
+#EXTVLCOPT:http-referrer=https://tvcadde27.com
+#EXTVLCOPT:http-origin=https://tvcadde27.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://xn--tdaaa.mevzuhls37.cfd/yayinb2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Selçukspor Liste",Bein Sports 1 Selçukspor
 #EXTVLCOPT:http-referer=https://main.uxsyplayer1a09531928c5.click/
 https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Selçukspor Liste",Bein Sports 2 Selçukspor
 #EXTVLCOPT:http-referer=https://main.uxsyplayer1a09531928c5.click/
+https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="S SPORT 1" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg" ,S SPORT 1
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="140" tvg-name="S SPORT 2" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg" ,S SPORT 2
