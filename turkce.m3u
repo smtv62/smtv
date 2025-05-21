@@ -20,8 +20,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0 tvg-id="FX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
 https://dealsrus.cyou/static/fx/index.m3u8?md5=lCC3LgV7ocZ7vMyudUzyvw&expires=1744752847
 #EXTINF:0 tvg-id="FX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
-http://norsvpx.top:8080/231679575500969074/1511679575500969/57942
-
+https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:0 tvg-id="DMAX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" ,TR: DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0 tvg-id="TLC.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tlc-ca.png?raw=true" ,TR: TLC
