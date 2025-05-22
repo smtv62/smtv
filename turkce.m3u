@@ -18,7 +18,7 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:0 tvg-id="BEYAZ TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,TR: Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0 tvg-id="FX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
-https://dealsrus.cyou/static/fx/index.m3u8?md5=lCC3LgV7ocZ7vMyudUzyvw&expires=1744752847
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3602
 #EXTINF:0 tvg-id="FX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/fx-gr.png?raw=true" ,TR: FX
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:0 tvg-id="DMAX HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" ,TR: DMAX
@@ -69,12 +69,12 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2003
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/ntv-tr.png?raw=true" ,TR: Ntv
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2812
-#EXTINF:0 tvg-id="DISCOVERY CHANNEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/discovery-science-ca.png?raw=true" ,TR: Discovery Science
-http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/3397.m3u8?play_token=
-#EXTINF:0 tvg-id="VIASAT HISTORY HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/historia-es.png?raw=true" ,TR: History Channel
-https://mybestdesigns.store/static/historychannel/index.m3u8?md5=jhXAtmPlGdcZx_InGBqcyA&expires=1744753075
+#EXTINF:0 tvg-id="DISCOVERY CHANNEL HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" ,TR: Discovery Channel
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2211
+#EXTINF:0 tvg-id="VIASAT HISTORY HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" ,TR: Viasat History
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2806
 #EXTINF:0 tvg-id="VIASAT EXPLORE.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_Explore_Logo.jpg" ,TR: Viasat Explore
-https://tv1.arectv30.sbs/live/viasatexplore.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2807
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-bbc-earth-in.png?raw=true" ,TR:BBC Earth
 https://dealsrus.cyou/static/bbcearth/index.m3u8?md5=t-B0iXTKWctJ1JJ3uYq4Sg&expires=1744753238
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,TR: National Geographic
@@ -186,9 +186,9 @@ https://217.30.11.74/e/155.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="Spor Smart 2" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png" ,Spor Smart 2
 https://217.30.11.74/e/156.m3u8
 #EXTINF:-1 tvg-id="137" tvg-name="Euro Sport 1" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/jpg/f40c9c2ad62bd4e3ff87d5859ea2bb54.jpg" ,Euro Sport 1
-https://tv.arectv29.sbs/static/euro1.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2002
 #EXTINF:-1 tvg-id="135" tvg-name="Euro Sport 2" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/png/8802d4e354a9ca77d6aa3bbd8362e3e8.png" ,Euro Sport 2
-https://tv.arectv29.sbs/static/euro2.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1809
 #EXTINF:-1 tvg-id="134" tvg-name="Tivibu Spor 1" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg" ,Tivibu Spor 1
 https://tv.arectv29.sbs/static/tivi1.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="Tivibu Spor 2" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/jpg/8c23cd76a1f7c2b12ab4e757b45ca87f.jpg" ,Tivibu Spor 2
