@@ -29,6 +29,9 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:0 tvg-id="TEVE2 HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHX6JighfKWrgDrlEPOfhJ4pAvrWj2Mbr-qg&s" ,TR: Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+#EXTINF:0 tvg-id="tabii TV.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10" ,TR: Tabii Tv
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8#EXTINF:0 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=493" ,TR: FilmScreen
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/04/Cine5_logosu.png" ,TR: Cine 5
 http://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGzacRG0ekfTT92MUIcre6zZaKEoYRS8MtQ&s" ,TR: Dizi TV
@@ -39,14 +42,14 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Sirius_TV_%28Televisyen_Malaysia%29.png" ,TR: SiriusHd TV
 https://132544.edgevideo.ru/streams/132544_959456/1325441080/index.m3u8
-#EXTINF:0 tvg-id="tabii TV.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10" ,TR: Tabii Tv
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVsaGh_5jXs7rMmxu24dQGpzCLkqZeP4rXtA&s" ,TR:Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR9TBSKSKuGW1BMl8ESZDU2ejc4IN7JFvhg&s" ,TR: Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRu_Pw0G9A_XkkiXjLWve6XnvwcsUYlaYew&s" ,TR:Cine 6
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
+#EXTINF:0 tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_293.png?v=9" ,Bi Kanal
+https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-sinema-keyfi.png" ,TR:SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/37/1/cinema-logo-png_seeklogo-370335.png" ,TR:iPlay Cinema
@@ -66,7 +69,7 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=173
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,TR: Nat Geo Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642" ,TR: Yaban
-http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+http://116.202.238.88/YABANTV_TR/index.m3u8
 #EXTINF:0 tvg-id="LOVE NATURE HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/love-nature-ca.png?raw=true" ,TR: Love Nature Multidil
 http://95.67.12.82:9098
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/da-vinci-rs.png?raw=true" ,TR: Davinci
@@ -89,6 +92,12 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 #EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandfetch.com%2Fcbcsport.az&psig=AOvVaw3IGXcHbRsbqD09UdAqDoxW&ust=1743338246864000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPie-Punr4wDFQAAAAAdAAAAABAE" ,TR: CBC Sport
 https://live3.cdn-canlitv.com/cbcsports.m3u8?anahtar=XOtediEeNbwoq-wOo2KlYA&sure=1743273290&ip=188.58.124.145
+#EXTINF:0 tvg-logo="https://im.haberturk.com/l/2020/03/15/ver1584289681/2614635/jpg/960x540" ,TR: Mor 1
+http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2621&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
+#EXTINF:0 tvg-logo="https://im.haberturk.com/l/2020/03/15/ver1584289681/2614635/jpg/960x540" ,TR: Mor 2
+http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2620&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
+#EXTINF:0 tvg-logo="https://im.haberturk.com/l/2020/03/15/ver1584289681/2614635/jpg/960x540" ,TR: Mor 3
+http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2619&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
 #EXTINF:0 tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" ,TR: TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TGRT Belgesel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tgrt-belgesel-tr.png?raw=true" ,TR: TGRT Belgesel
