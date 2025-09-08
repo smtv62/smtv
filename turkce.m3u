@@ -33,6 +33,10 @@ https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:0 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=493" ,FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:0 tvg-logo="https://1001.sinematv.com.tr/content/logo/SINEMATV-1001-GRI.png" ,Sinema 1001
+http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2614&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
+#EXTINF:0 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png" ,Sinema 2
+http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2612&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/04/Cine5_logosu.png" ,Cine 5
 http://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGzacRG0ekfTT92MUIcre6zZaKEoYRS8MtQ&s" ,Dizi TV
