@@ -103,6 +103,16 @@ https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,beIN Sports Haber
 http://e8379.cakir20.xyz:80/halil.englad4/ayDnT.tNx-1/37165
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="NexaTV",TR:beIN Sport 1 HD
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="NexaTV",TR:beIN Sport 2 HD
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="NexaTV",TR:beIN Sport 3 HD
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="NexaTV",TR:beIN Sport 4 HD
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 5 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="NexaTV",TR:beIN Sport 5 HD
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs5.m3u8
 #EXTINF:0 tvg-logo="https://im.haberturk.com/l/2020/03/15/ver1584289681/2614635/jpg/960x540" ,Mor 1
 http://45.11.58.245:25461/live/spor/spor/5.m3u8
 #EXTINF:0 tvg-logo="https://im.haberturk.com/l/2020/03/15/ver1584289681/2614635/jpg/960x540" ,Mor 2
