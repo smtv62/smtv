@@ -64,7 +64,7 @@ https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png" ,Ons Tv
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 #EXTINF:0 tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" ,TRT Belgesel
-http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TGRT Belgesel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tgrt-belgesel-tr.png?raw=true" ,TGRT Belgesel
 http://50.7.144.122:1935/livetv/tgrtbelgesel.stream/sec-f5-v1-a1.m3u8
 #EXTINF:0 tvg-id="DISCOVERY CHANNEL HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" ,Discovery Channel
@@ -92,11 +92,11 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
 #EXTINF:0 tvg-id="A SPOR HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/a-spor-tr.png?raw=true" ,A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:0 tvg-id="TRT SPOR HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-hd-tr.png?raw=true" ,TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web
 #EXTINF:0 tvg-id="TRT 3.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-3-spor-tr.png?raw=true" ,TRT 3 Spor
 http://31.222.206.98/8808/tracks-v1a1/mono.ts.m3u8?token=test
 #EXTINF:0 tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-yildiz-tr.png?raw=true" ,TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
 #EXTINF:0 tvg-id="HT SPOR.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" ,HT Spor
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 #EXTINF:0 tvg-id="SPORTS TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/sports-tv-tr.png?raw=true" ,Sports TV
