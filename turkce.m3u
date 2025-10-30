@@ -39,6 +39,8 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png" ,SüperTürk Max
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQczc3D_tjuhgNlouc32_Z8V8-QGl8i3WijOg&s" ,Cinebox
+http://66.160.192.241/cineboxcinehd/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVsaGh_5jXs7rMmxu24dQGpzCLkqZeP4rXtA&s" ,Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR9TBSKSKuGW1BMl8ESZDU2ejc4IN7JFvhg&s" ,Tivi Türk
