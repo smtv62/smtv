@@ -113,6 +113,9 @@ http://95.174.71.114:80/TR-BEINSPORT3/index.m3u8
 http://cf.1575-cdn.me:80/857ef05e6513D2/ae4ab944fc/1069950
 #EXTINF:-1 group-title="LocalNow: Sports" tvg-id="LocalNow_beINSPORTSXTRA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c3b244f859656ba284f02" ,beIN SPORTS XTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBCSport" tvg-logo="https://tv.canli.mobi/kanallar/cbc-sport-az.png" group-title="Azerbaycan",CBC Sport
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://live.turkey-tv.workers.dev/Turkey.php?ID=https://tv.canli.mobi/cbcsport-canli-mobil
 #EXTINF:-1 tvg-id="141" tvg-name="S SPORT 1" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg" ,S SPORT 1
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-id="140" tvg-name="S SPORT 2" tvg-logo="https://m.prectv21.sbs/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg" ,S SPORT 2
