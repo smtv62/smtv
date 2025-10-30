@@ -143,3 +143,95 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/nr1-tr.png?raw=true" ,NR 1 Türk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="S SPORT" tvg-logo="http://yt3.googleusercontent.com/gvJvmHjz_AD2oWOrKpMHrc6PkrPaf9ZJn714gU1hOYxOh7XWqLbSjwniRy9wXxs0R6vyIFsCivA",S SPORT
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=9
+
+#EXTINF:-1 tvg-name="S SPORT 2" tvg-logo="http://yt3.googleusercontent.com/gvJvmHjz_AD2oWOrKpMHrc6PkrPaf9ZJn714gU1hOYxOh7XWqLbSjwniRy9wXxs0R6vyIFsCivA",S SPORT 2
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=10
+
+#EXTINF:-1 tvg-name="tivibu SPOR" tvg-logo="http://yt3.googleusercontent.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ",tivibu SPOR
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=11
+
+#EXTINF:-1 tvg-name="tivibu SPOR 2" tvg-logo="http://yt3.googleusercontent.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ",tivibu SPOR 2
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=12
+
+#EXTINF:-1 tvg-name="tivibu SPOR 3" tvg-logo="http://yt3.googleusercontent.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ",tivibu SPOR 3
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=13
+
+#EXTINF:-1 tvg-name="tivibu SPOR 4" tvg-logo="http://yt3.googleusercontent.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ",tivibu SPOR 4
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=14
+
+#EXTINF:-1 tvg-name="spor SMART" tvg-logo="http://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART.png",spor SMART
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=15
+
+#EXTINF:-1 tvg-name="spor SMART 2" tvg-logo="http://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2.png",spor SMART 2
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=16
+
+#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="http://yt3.googleusercontent.com/c1czBFQIRI3AxywPD906-0gC1iaFrlyPR0knA6rcyCrBqkIjKXPfkuWrzajIkO9KNNcEXEYnyg",EUROSPORT 1
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=17
+
+#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="http://yt3.googleusercontent.com/c1czBFQIRI3AxywPD906-0gC1iaFrlyPR0knA6rcyCrBqkIjKXPfkuWrzajIkO9KNNcEXEYnyg",EUROSPORT 2
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=18
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="http://yt3.googleusercontent.com/L1ifQn0wiH9xsZQHw5W6uVyx7AG3YuKD8HzTDKCsycJoI5cAzm8olCOn7U9uQk8JJFtJvyqZHA",NBA TV
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=19
+
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-logo="http://yt3.googleusercontent.com/FCzDc31AsTFzobw8Z4QBCc8AGtKgFP4mq28RgbcLJGdVNlE0RoremvEr1XntYHFc6G0dAwU-",TRT SPOR
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=20
+
+#EXTINF:-1 tvg-name="TRT SPOR Yıldız" tvg-logo="http://yt3.googleusercontent.com/-8Ri3w9lxEPds96rwxSbKvO6hLWNI1_dqIO0T75xAQ9KomwH68sIXycW5hYUEljYbenIhnW1SA",TRT SPOR Yıldız
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=21
+
+#EXTINF:-1 tvg-name="aSPOR" tvg-logo="http://yt3.googleusercontent.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8",aSPOR
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=22
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="http://yt3.googleusercontent.com/Ar9s9sZNclvmZN1l7GfIdnAQjh_ZkVhGMx6Dy5PHbq2keR9ijkPMFkk9VxZnIEnTf0MrXfSU4g",TRT 1
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=23
+
+#EXTINF:-1 tvg-name="atv" tvg-logo="http://yt3.googleusercontent.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY",atv
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=24
+
+#EXTINF:-1 tvg-name="TV8" tvg-logo="http://yt3.googleusercontent.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY",TV8
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=25
+
+#EXTINF:-1 tvg-name="TV8.5" tvg-logo="http://yt3.googleusercontent.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY",TV8.5
+#EXTVLCOPT:http-referrer=https://inattv.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://live.inat-tv.workers.dev/?ID=26
+
