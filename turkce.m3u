@@ -37,20 +37,16 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png" ,SüperTürk TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png" ,SüperTürk Max
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQczc3D_tjuhgNlouc32_Z8V8-QGl8i3WijOg&s" ,Cinebox
 http://66.160.192.241/cineboxcinehd/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HsrtQ2hiA1pmZLMLKSNX4Q3a-9lgJvQQBhB6JAUnckfBwP3HjNso4oHDLdVR51ycKUcEEAisCA=s900-c-k-c0x00ffffff-no-rj" ,Fiber Box Yerli
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttG-NudXg6iP5vUzwygWPoe_bMUnnSlffPw&s" ,FilmBox Yerli
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVsaGh_5jXs7rMmxu24dQGpzCLkqZeP4rXtA&s" ,Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR9TBSKSKuGW1BMl8ESZDU2ejc4IN7JFvhg&s" ,Tivi Türk
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRu_Pw0G9A_XkkiXjLWve6XnvwcsUYlaYew&s" ,Cine 6
-https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_293.png?v=9" ,Bi Kanal
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b4/HBB_logosu.png" ,HBB
-http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-sinema-keyfi.png" ,SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png" ,Ons Tv
@@ -58,7 +54,9 @@ https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 #EXTINF:0 tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" ,TRT Belgesel
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TGRT Belgesel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tgrt-belgesel-tr.png?raw=true" ,TGRT Belgesel
-http://50.7.144.122:1935/livetv/tgrtbelgesel.stream/sec-f5-v1-a1.m3u8
+https://streams.uzunmuhalefet.com/stream/e3d3b3f7-7276-4768-9673-388e462401e2.m3u8
+#EXTINF:-1 tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png" ,Nature Time
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-3/playlist.m3u8
 #EXTINF:0 tvg-id="TRT HABER HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-haber-hd-tr.png?raw=true" ,TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,National Geographic
@@ -83,6 +81,8 @@ http://31.222.206.98/8808/tracks-v1a1/mono.ts.m3u8?token=test
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="HT SPOR.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" ,HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-id="Tivibu Spor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" ,Tivibu Spor
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 #EXTINF:0 tvg-id="SPORTS TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/sports-tv-tr.png?raw=true" ,Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,beIN Sports Haber
