@@ -82,7 +82,7 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="HT SPOR.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" ,HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="Tivibu Spor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" ,Tivibu Spor
-http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
 #EXTINF:0 tvg-id="SPORTS TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/sports-tv-tr.png?raw=true" ,Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,beIN Sports Haber
