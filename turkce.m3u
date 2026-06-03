@@ -65,6 +65,18 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="tv logo" ,DISCOVERY IDX
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=185784&extension=m3u8
+#EXTINF:-1,TR| DISCOVERY IDX 4K
+http://klaratv.com:80/play/live.php?mac=00:1A:79:19:5F:B7&stream=913173&extension=ts&play_token=vLGDgKIW4k
+#EXTINF:-1,TR| BBC EARTH 4K
+http://klaratv.com:80/play/live.php?mac=00:1A:79:19:5F:B7&stream=913171&extension=ts&play_token=CpKVMeno0q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1925951.png" ,VIASAT EXPLORE
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:22:02:5E&stream=913162&extension=ts&play_token=tzejHONotg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913162.png" ,IZ TV
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:22:02:5E&stream=1925951&extension=ts&play_token=b7G7h04n0E
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913160.png" ,E VIASAT
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:22:02:5E&stream=913161&extension=ts&play_token=auqEkAUcUp
+#EXTINF:-1 tvg-logo="tv logo" ,NATURE TIME
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:0 tvg-id="YABAN TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642" ,Yaban
 http://116.202.238.88/YABANTV_TR/index.m3u8
 #EXTINF:0 tvg-id="LOVE NATURE HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/love-nature-ca.png?raw=true" ,Love Nature Multidil
@@ -153,19 +165,17 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/45155_0-73-1920-933.jpeg" ,tabii TV
 http://live.tabitv.workers.dev/?ID=tabii TV
-#EXTINF:-1 tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43023.jpeg" ,tabii spor
-http://live.tabitv.workers.dev/?ID=tabii spor
-#EXTINF:-1 tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43005.jpeg" ,tabii Spor 1
-http://live.tabitv.workers.dev/?ID=tabii Spor 1
-#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/43008.jpeg" ,tabii Spor 2
-http://live.tabitv.workers.dev/?ID=tabii Spor 2
-#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/43011.jpeg" ,tabii Spor 3
-http://live.tabitv.workers.dev/?ID=tabii Spor 3
-#EXTINF:-1 tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43014.jpeg" ,tabii Spor 4
-http://live.tabitv.workers.dev/?ID=tabii Spor 4
-#EXTINF:-1 tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43017.jpeg" ,tabii Spor 5
-http://live.tabitv.workers.dev/?ID=tabii Spor 5
-#EXTINF:-1 tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43020.jpeg" ,tabii Spor 6
-http://live.tabitv.workers.dev/?ID=tabii Spor 6
-#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/51612_0-0-1919-1080.jpeg" ,tabii Spor 7
-http://live.tabitv.workers.dev/?ID=tabii Spor 7
+#EXTINF:-1,tabii spor 1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,tabii Spor 2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,tabii Spor 3
+https://uJnF69oP16X2fiIyWxCNx41Q8.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,tabii Spor 4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,tabii Spor 5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,tabii Spor 6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,tabii Spor 7
+https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master.m3u8
