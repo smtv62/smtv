@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 #EXTINF:0 tvg-id="TRT1 HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-1-tr.png?raw=true" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" tvg-url="https://www.trt1.com.tr/" tvg-id="TRT1.tr",TRT 1 UM
+https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
 #EXTINF:0 tvg-id="TRT 2 HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-2-tr.png?raw=true" ,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="STAR TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/star-tv-tr.png?raw=true" ,Star TV
