@@ -3,8 +3,23 @@ const axios = require('axios');
 
 const LOCAL_FILE = 'turkce.m3u';
 const REMOTE_URL = 'https://link.testworkery0.workers.dev/patron.m3u';
-const MATCH_THRESHOLD = 0.75; // Eşleşme hassasiyetini biraz daha esnettim (%75)
-const CONCURRENCY_LIMIT = 10; // Aynı anda 10 kanalı birden kontrol eder (Hızlı tarama)
+const MATCH_THRESHOLD = 0.75; // Eşleşme hassasiyeti (%75)
+const CONCURRENCY_LIMIT = 10; // Aynı anda 10 kanalı birden kontrol eder
+
+// Adsız.png görselindeki tam hedef kanal listesi
+const TARGET_CHANNELS = [
+    "Tarih TV", "National Geographic", "National Geographic Wild", 
+    "Viasat Nature", "Viasat History", "Love Nature", "BBC Earth", 
+    "Discovery Channel", "Discovery Science", "Discovery ID", 
+    "Viasat Explore", "DocuBOX", "Yaban Tv", "TGRT Belgesel", "Çiftçi Tv",
+    "Fx", "Fx Yedek", 
+    "Sinema Tv", "Sinema Tv Yedek", "Sinema Tv Yedek 2", 
+    "Sinema Tv 2", "Sinema Tv 2 Yedek", 
+    "Sinema Aile", "Sinema Tv Aile Yedek", "Sinema Aile Yedek 2", "Sinema Aile 2", 
+    "Sinema Aksiyon", "Sinema Tv Aksiyon Yedek", "Sinema Aksiyon Yedek 2", "Sinema Aksiyon 2", 
+    "Sinema Komedi", "Sinema Tv Komedi Yedek", "Sinema Komedi Yedek 2", "Sinema Komedi 2", 
+    "Sinema Tv 1001", "Sinema Tv 1001 Yedek", "Sinema 1001 Yedek 2", "Sinema Tv 1002"
+];
 
 function normalizeText(text) {
     if (!text) return "";
@@ -16,8 +31,8 @@ function normalizeText(text) {
         .replace(/ş/g, 's')
         .replace(/ö/g, 'o')
         .replace(/ç/g, 'c')
-        .replace(/^[a-z0-9]{2,3}\s*[|:]/g, '') // "TR|", "EN:", "TR :" gibi ülke ön eklerini temizler
-        .replace(/[\s\-\+\(\)hd|4k]/g, '') // Boşlukları, HD, 4K ibarelerini siler
+        .replace(/^[a-z0-9]{2,3}\s*[|:]/g, '') // Ülke ön eklerini temizler
+        .replace(/[\s\-\+\(\)hd|4k]/g, '') // Boşluk, HD, 4K ibarelerini siler
         .trim();
 }
 
@@ -82,10 +97,9 @@ function parseM3U(content) {
     return channels;
 }
 
-// Katı zaman aşımı (Zorla iptal etme) içeren kanal kontrolü
 async function checkChannel(url) {
     const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 3000); // 3 saniyede kesin iptal
+    const timeoutId = setTimeout(() => controller.abort(), 3000);
 
     try {
         const response = await axios.head(url, { 
@@ -96,7 +110,6 @@ async function checkChannel(url) {
         return response.status === 200;
     } catch (error) {
         clearTimeout(timeoutId);
-        // HEAD başarısızsa GET ile son bir şans ver (yine 3 saniye limitli)
         const getController = new AbortController();
         const getTimeoutId = setTimeout(() => getController.abort(), 3000);
         try {
@@ -128,7 +141,6 @@ function findBestMatch(localName, remoteChannels) {
     return highestScore >= MATCH_THRESHOLD ? bestMatch : null;
 }
 
-// Kanalları gruplar halinde paralel işleyen yardımcı fonksiyon
 async function processInChunks(array, chunkSize, iteratorFn) {
     for (let i = 0; i < array.length; i += chunkSize) {
         const chunk = array.slice(i, i + chunkSize);
@@ -149,18 +161,15 @@ async function start() {
     const remoteResponse = await axios.get(REMOTE_URL);
     const remoteChannels = parseM3U(remoteResponse.data);
 
-    let startIndex = remoteChannels.findIndex(c => normalizeText(c.name).includes("tarihtv"));
-    let endIndex = remoteChannels.findIndex(c => normalizeText(c.name).includes("sinematv1002"));
-
-    if (startIndex === -1) startIndex = 0;
-    if (endIndex === -1) endIndex = remoteChannels.length - 1;
-
-    const filteredRemoteChannels = remoteChannels.slice(startIndex, endIndex + 1);
-    console.log(`🎯 Hedef aralıktan ${filteredRemoteChannels.length} kanal filtrelendi.`);
+    // Eski index aralığı yerine, uzak listeden sadece görseldeki hedef listeyle eşleşenleri filtreliyoruz
+    const filteredRemoteChannels = remoteChannels.filter(remoteChan => {
+        return TARGET_CHANNELS.some(targetName => getSimilarity(remoteChan.name, targetName) >= MATCH_THRESHOLD);
+    });
+    
+    console.log(`🎯 Hedef listeden ${filteredRemoteChannels.length} kanal başarıyla filtrelendi.`);
 
     console.log("🔎 Kanal kontrolleri ve güncellemeler paralel olarak başlıyor...");
     
-    // Kanalları 10'arlı gruplar halinde kontrol ediyoruz
     await processInChunks(localChannels, CONCURRENCY_LIMIT, async (localChan) => {
         console.log(`⏱️ Kontrol ediliyor: ${localChan.name}`);
         const isWorking = await checkChannel(localChan.url);
@@ -180,12 +189,12 @@ async function start() {
         }
     });
 
-    // 2. Yerelde olmayan yeni kanalları ekle
+    // 2. Yerelde olmayan yeni kanalları ekle (Yalnızca filtrelenmiş hedef listedekileri ekler)
     for (let remoteChan of filteredRemoteChannels) {
         const hasMatch = localChannels.some(l => getSimilarity(l.name, remoteChan.name) >= MATCH_THRESHOLD);
         if (!hasMatch) {
             localChannels.push(remoteChan);
-            console.log(`➕ Yeni kanal eklendi: ${remoteChan.name}`);
+            console.log(`➕ Yeni hedef kanal eklendi: ${remoteChan.name}`);
         }
     }
 
@@ -196,7 +205,7 @@ async function start() {
     });
 
     fs.writeFileSync(LOCAL_FILE, newM3U, 'utf-8');
-    console.log("💾 turkce.m3u başarıyla güncellendi ve kaydedildi!");
+    console.log(`💾 ${LOCAL_FILE} başarıyla güncellendi ve kaydedildi!`);
 }
 
 start().catch(err => console.error("🚨 Kritik Hata:", err));
