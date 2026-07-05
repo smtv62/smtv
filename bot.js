@@ -3,9 +3,9 @@ const axios = require('axios');
 
 const LOCAL_FILE = 'turkce.m3u';
 const REMOTE_URL = 'https://link.testworkery0.workers.dev/patron.m3u';
-const MATCH_THRESHOLD = 0.8; // %80 ve üzeri benzerlikleri aynı kanal sayar
+const MATCH_THRESHOLD = 0.75; // Eşleşme hassasiyetini biraz daha esnettim (%75)
+const CONCURRENCY_LIMIT = 10; // Aynı anda 10 kanalı birden kontrol eder (Hızlı tarama)
 
-// Türkçe karakterleri İngilizce karşılıklarına çevirir ve temizler
 function normalizeText(text) {
     if (!text) return "";
     return text
@@ -16,17 +16,17 @@ function normalizeText(text) {
         .replace(/ş/g, 's')
         .replace(/ö/g, 'o')
         .replace(/ç/g, 'c')
-        .replace(/[\s\-\+\(\)hd|]/g, '') // Boşlukları, HD ibaresini ve özel karakterleri siler
+        .replace(/^[a-z0-9]{2,3}\s*[|:]/g, '') // "TR|", "EN:", "TR :" gibi ülke ön eklerini temizler
+        .replace(/[\s\-\+\(\)hd|4k]/g, '') // Boşlukları, HD, 4K ibarelerini siler
         .trim();
 }
 
-// İki metin arasındaki benzerlik oranını hesaplar (Levenshtein Distance)
 function getSimilarity(s1, s2) {
     const n1 = normalizeText(s1);
     const n2 = normalizeText(s2);
     
     if (n1 === n2) return 1.0;
-    if (n1.includes(n2) || n2.includes(n1)) return 0.9; // Biri diğerinin içinde geçiyorsa yüksek puan
+    if (n1.includes(n2) || n2.includes(n1)) return 0.85;
 
     let longer = n1;
     let shorter = n2;
@@ -82,23 +82,37 @@ function parseM3U(content) {
     return channels;
 }
 
+// Katı zaman aşımı (Zorla iptal etme) içeren kanal kontrolü
 async function checkChannel(url) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 3000); // 3 saniyede kesin iptal
+
     try {
-        // Sadece header kontrolü yaparak (HEAD isteği) hızı artırıyoruz
-        const response = await axios.head(url, { timeout: 4000, headers: { 'User-Agent': 'Mozilla/5.0' } });
+        const response = await axios.head(url, { 
+            signal: controller.signal, 
+            headers: { 'User-Agent': 'Mozilla/5.0' } 
+        });
+        clearTimeout(timeoutId);
         return response.status === 200;
     } catch (error) {
-        // Bazı sunucular HEAD isteğine 405 verebilir, garanti olsun diye GET ile tekrar deneriz
+        clearTimeout(timeoutId);
+        // HEAD başarısızsa GET ile son bir şans ver (yine 3 saniye limitli)
+        const getController = new AbortController();
+        const getTimeoutId = setTimeout(() => getController.abort(), 3000);
         try {
-            const response = await axios.get(url, { timeout: 4000, headers: { 'User-Agent': 'Mozilla/5.0' } });
+            const response = await axios.get(url, { 
+                signal: getController.signal, 
+                headers: { 'User-Agent': 'Mozilla/5.0' } 
+            });
+            clearTimeout(getTimeoutId);
             return response.status === 200;
         } catch (e) {
+            clearTimeout(getTimeoutId);
             return false;
         }
     }
 }
 
-// En benzer kanalı bulan fonksiyon
 function findBestMatch(localName, remoteChannels) {
     let bestMatch = null;
     let highestScore = 0;
@@ -114,6 +128,14 @@ function findBestMatch(localName, remoteChannels) {
     return highestScore >= MATCH_THRESHOLD ? bestMatch : null;
 }
 
+// Kanalları gruplar halinde paralel işleyen yardımcı fonksiyon
+async function processInChunks(array, chunkSize, iteratorFn) {
+    for (let i = 0; i < array.length; i += chunkSize) {
+        const chunk = array.slice(i, i + chunkSize);
+        await Promise.all(chunk.map(iteratorFn));
+    }
+}
+
 async function start() {
     console.log("🔄 İşlem başlatıldı...");
 
@@ -127,7 +149,6 @@ async function start() {
     const remoteResponse = await axios.get(REMOTE_URL);
     const remoteChannels = parseM3U(remoteResponse.data);
 
-    // Tarih TV ve Sinema TV 1002 aralığını filtrele
     let startIndex = remoteChannels.findIndex(c => normalizeText(c.name).includes("tarihtv"));
     let endIndex = remoteChannels.findIndex(c => normalizeText(c.name).includes("sinematv1002"));
 
@@ -137,9 +158,11 @@ async function start() {
     const filteredRemoteChannels = remoteChannels.slice(startIndex, endIndex + 1);
     console.log(`🎯 Hedef aralıktan ${filteredRemoteChannels.length} kanal filtrelendi.`);
 
-    // 1. Yerel kanalları kontrol et ve güncelle
-    for (let localChan of localChannels) {
-        console.log(`🔎 Kontrol ediliyor: ${localChan.name}`);
+    console.log("🔎 Kanal kontrolleri ve güncellemeler paralel olarak başlıyor...");
+    
+    // Kanalları 10'arlı gruplar halinde kontrol ediyoruz
+    await processInChunks(localChannels, CONCURRENCY_LIMIT, async (localChan) => {
+        console.log(`⏱️ Kontrol ediliyor: ${localChan.name}`);
         const isWorking = await checkChannel(localChan.url);
 
         if (!isWorking) {
@@ -148,19 +171,21 @@ async function start() {
             
             if (matchInRemote) {
                 localChan.url = matchInRemote.url;
-                console.log(`✅ ${localChan.name} -> ${matchInRemote.name} olarak eşleşti ve linki güncellendi.`);
+                console.log(`✅ ${localChan.name} -> ${matchInRemote.name} olarak eşleşti ve güncellendi.`);
             } else {
                 console.log(`❌ ${localChan.name} için uzak listede benzer bir karşılık bulunamadı.`);
             }
+        } else {
+            console.log(`🟢 Aktif: ${localChan.name}`);
         }
-    }
+    });
 
-    // 2. Yerelde olmayan (hiç eşleşmeyen) yeni kanalları ekle
+    // 2. Yerelde olmayan yeni kanalları ekle
     for (let remoteChan of filteredRemoteChannels) {
         const hasMatch = localChannels.some(l => getSimilarity(l.name, remoteChan.name) >= MATCH_THRESHOLD);
         if (!hasMatch) {
             localChannels.push(remoteChan);
-            console.log(`➕ Yeni kanal listeye dahil edildi: ${remoteChan.name}`);
+            console.log(`➕ Yeni kanal eklendi: ${remoteChan.name}`);
         }
     }
 
