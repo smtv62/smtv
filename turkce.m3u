@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:0 tvg-id="TRT1 HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-1-tr.png?raw=true" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" tvg-url="https://www.trt1.com.tr/" tvg-id="TRT1.tr",TRT 1 UM
-https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
 #EXTINF:0 tvg-id="TRT 2 HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-2-tr.png?raw=true" ,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="STAR TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/star-tv-tr.png?raw=true" ,Star TV
 https://dosemeci.denek1544.workers.dev/izle/startv-113.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:0 tvg-id="KANAL D HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/kanal-d-tr.png?raw=true" ,Kanal D
-http://87.121.104.29:5010/channel?id=245931&token=febd82b55211f8dbb329e59fcd2695bb
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/2304/index.m3u8
 #EXTINF:0 tvg-id="SHOW TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-tr.png?raw=true" ,SHOW TV
 https://dosemeci.denek1544.workers.dev/izle/showtv.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:0 tvg-id="ATV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" ,ATV
@@ -64,7 +62,17 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,National Geographic
 https://cinciksi.testworker0y.workers.dev/channel/TmF0aW9uYWwgR2VvZ3JhcGhpYw==?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,Nat Geo Wild
-https://saran-live.ercdn.net/natgeowild/index.m3u8
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6866/index.m3u8
+#EXTINF:-1,NatGeo HD TR
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6867/index.m3u8
+#EXTINF:-1,Yaban TV TR
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6868/index.m3u8
+#EXTINF:-1,Da Vinci Learning HD TR
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6857/index.m3u8
+#EXTINF:-1,Animal Planet HD TR
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6858/index.m3u8
+#EXTINF:-1,Animal Planet TR
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6859/index.m3u8
 #EXTINF:-1 tvg-logo="tv logo" ,DISCOVERY IDX
 https://new.testworkery0.workers.dev/stream/aHR0cHM6Ly9kc21hcnRnby1saXZlLmVyY2RuLm5ldC9kaXNjb3ZlcnlzY2llbmNlL2Rpc2NvdmVyeXNjaWVuY2UubTN1OA==.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:-1,TR| DISCOVERY IDX 4K
