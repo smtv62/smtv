@@ -10,7 +10,7 @@ http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/2304/index.m3u8
 #EXTINF:0 tvg-id="SHOW TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-tr.png?raw=true" ,SHOW TV
 https://dosemeci.denek1544.workers.dev/izle/showtv.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:0 tvg-id="ATV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" ,ATV
-http://87.121.104.29:8001/?id=246195&token=e52ef0d8cfe0bee0e378268c3e74a78f
+http://87.121.104.29:8001/?id=246195&token=005f4d6804bb0a624750e0f4b6c9f1cf
 #EXTINF:0 tvg-id="NOW.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/now-tr.png?raw=true" ,NOW
 https://dosemeci.denek1544.workers.dev/izle/foxtv.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:0 tvg-id="BEYAZ TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,Beyaz TV
@@ -54,7 +54,7 @@ https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 #EXTINF:0 tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" ,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TGRT Belgesel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tgrt-belgesel-tr.png?raw=true" ,TGRT Belgesel
-http://87.121.104.29:1071/tgrtbelgeselyt/stream.m3u8?token=e52ef0d8cfe0bee0e378268c3e74a78f
+http://87.121.104.29:1071/tgrtbelgeselyt/stream.m3u8?token=005f4d6804bb0a624750e0f4b6c9f1cf
 #EXTINF:-1 tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png" ,Nature Time
 http://87.121.104.29:1071/naturetimetr/stream.m3u8?token=febd82b55211f8dbb329e59fcd2695bb
 #EXTINF:0 tvg-id="TRT HABER HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-haber-hd-tr.png?raw=true" ,TRT Haber
@@ -78,7 +78,7 @@ https://new.testworkery0.workers.dev/stream/aHR0cHM6Ly9kc21hcnRnby1saXZlLmVyY2Ru
 #EXTINF:-1,TR| DISCOVERY IDX 4K
 https://new.testworkery0.workers.dev/stream/aHR0cHM6Ly9kc21hcnRnby1saXZlLmVyY2RuLm5ldC9kaXNjb3ZlcnlzY2llbmNlL2Rpc2NvdmVyeXNjaWVuY2UubTN1OA==.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:-1,TR| BBC EARTH 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:19:5F:B7&stream=913171&extension=ts&play_token=CpKVMeno0q
+https://dosemeci.denek1544.workers.dev/izle/bbcearthhd.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1925951.png" ,VIASAT EXPLORE
 https://cinciksi.testworker0y.workers.dev/channel/Vmlhc2F0IEV4cGxvcmU=?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913162.png" ,IZ TV
@@ -195,3 +195,25 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 4K" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_124.png" group-title="TR | ULUSAL",TR: TRT 4K
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="rectarihtv" tvg-name="Tarih TV" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" group-title="Belgesel",Tarih TV
+https://dosemeci.denek1544.workers.dev/izle/tarihtv.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
+#EXTINF:-1 tvg-id="historyrec" tvg-name="Viasat Nature" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" group-title="Belgesel",Viasat Nature
+https://dosemeci.denek1544.workers.dev/izle/historychannel.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
+#EXTINF:-1 tvg-id="viasatrec" tvg-name="Viasat History" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" group-title="Belgesel",Viasat History
+https://dosemeci.denek1544.workers.dev/izle/viasathistory.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
+#EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel" tvg-logo="https://img.dsmartgo.com.tr/content/r/9C/11894/Thumbnail.png" group-title="Belgesel",Discovery Channel
+https://cinciksi.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=?token=04bf998ff10a46a0e9f6ab95b997dff5
+#EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" tvg-logo="https://img.dsmartgo.com.tr/content/b/vE/11891/Thumbnail.png" group-title="Belgesel",Discovery Science
+https://cinciksi.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=?token=04bf998ff10a46a0e9f6ab95b997dff5
+#EXTINF:-1 tvg-id="docubox" tvg-name="DocuBOX" tvg-logo="https://img.dsmartgo.com.tr/content/_/wh/11899/Thumbnail.png" group-title="Belgesel",DocuBOX
+https://cinciksi.testworker0y.workers.dev/channel/RG9jdUJveA==?token=04bf998ff10a46a0e9f6ab95b997dff5
+#EXTINF:-1 tvg-id="ciftcitv" tvg-name="Çiftçi Tv" tvg-logo="https://yt3.googleusercontent.com/ZHXZQwHOxuL-p_s8OFYYa-iykr9CeqOxIzcPt33cKCwC1UwMi7BdFByN2Ftlyv5F60db7iUk=s160-c-k-c0x00ffffff-no-rj" group-title="Belgesel",Çiftçi Tv
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="sinemaaile" tvg-name="Sinema Aile" tvg-logo="https://img.dsmartgo.com.tr/content/-/EU/22897/Thumbnail.png" group-title="Sinema Kanalları",Sinema Aile
+https://kaskocugeldi.denek1544.workers.dev/channel/U2luZW1hIFRWIEFpbGU=.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
+#EXTINF:-1 tvg-id="sinemaaksiyon" tvg-name="Sinema Aksiyon" tvg-logo="https://img.dsmartgo.com.tr/content/t/tD/22896/Thumbnail.png" group-title="Sinema Kanalları",Sinema Aksiyon
+https://kaskocugeldi.denek1544.workers.dev/channel/U2luZW1hIFRWIEFrc2l5b24=.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
+#EXTINF:-1 tvg-id="sinemakomedi" tvg-name="Sinema Komedi" tvg-logo="https://img.dsmartgo.com.tr/content/w/9a/22899/Thumbnail.png" group-title="Sinema Kanalları",Sinema Komedi
+https://kaskocugeldi.denek1544.workers.dev/channel/U2luZW1hIFR2IEtvbWVkaQ==.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
+#EXTINF:-1 tvg-id="kablosinema1001" tvg-name="Sinema 1001 Yedek 2" tvg-logo="https://img.dsmartgo.com.tr/content/g/6y/22901/Thumbnail.png" group-title="Sinema Kanalları",Sinema 1001 Yedek 2
+https://zambazumba.testworkery0.workers.dev/sinema1001?key=patr0n&token=04bf998ff10a46a0e9f6ab95b997dff5
