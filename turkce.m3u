@@ -12,7 +12,7 @@ http://87.121.104.29:5010/channel?id=245931&token=febd82b55211f8dbb329e59fcd2695
 #EXTINF:0 tvg-id="SHOW TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-tr.png?raw=true" ,SHOW TV
 https://dosemeci.denek1544.workers.dev/izle/showtv.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:0 tvg-id="ATV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" ,ATV
-http://87.121.104.29:8001/?id=246195&token=febd82b55211f8dbb329e59fcd2695bb
+http://87.121.104.29:8001/?id=246195&token=e52ef0d8cfe0bee0e378268c3e74a78f
 #EXTINF:0 tvg-id="NOW.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/now-tr.png?raw=true" ,NOW
 https://dosemeci.denek1544.workers.dev/izle/foxtv.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:0 tvg-id="BEYAZ TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,Beyaz TV
@@ -56,7 +56,7 @@ https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 #EXTINF:0 tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" ,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TGRT Belgesel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tgrt-belgesel-tr.png?raw=true" ,TGRT Belgesel
-http://87.121.104.29:1071/tgrtbelgeselyt/stream.m3u8?token=febd82b55211f8dbb329e59fcd2695bb
+http://87.121.104.29:1071/tgrtbelgeselyt/stream.m3u8?token=e52ef0d8cfe0bee0e378268c3e74a78f
 #EXTINF:-1 tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png" ,Nature Time
 http://87.121.104.29:1071/naturetimetr/stream.m3u8?token=febd82b55211f8dbb329e59fcd2695bb
 #EXTINF:0 tvg-id="TRT HABER HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-haber-hd-tr.png?raw=true" ,TRT Haber
@@ -214,7 +214,7 @@ https://zambazumba.testworkery0.workers.dev/cnn?key=patr0n&token=04bf998ff10a46a
 #EXTINF:-1 tvg-id="haberturk" tvg-name="Haber Türk" tvg-logo="https://img.dsmartgo.com.tr/content/V/gp/13350/Thumbnail.png" group-title="Haber",Haber Türk
 https://pattes.testworker0y.workers.dev/channel/SGFiZXJ0w7xyayB8IEI=?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:-1 tvg-id="ntvhaber" tvg-name="NTV -A-" tvg-logo="https://img.dsmartgo.com.tr/content/F/VA/13721/Thumbnail.png" group-title="Haber",NTV -A-
-https://zambazumba.testworkery0.workers.dev/ntv?key=patr0n&token=04bf998ff10a46a0e9f6ab95b997dff5
+https://dosemeci.denek1544.workers.dev/izle/atv-110.m3u8?token=04bf998ff10a46a0e9f6ab95b997dff5
 #EXTINF:-1 tvg-id="ntvyt" tvg-name="Ntv - YT" tvg-logo="https://yt3.googleusercontent.com/PUOG4AugF5attdcdO6O1sOIkFykoEJBTKF0d6hLlzAj_VCPD3MUyMOZTiwyfs-NbqL7qLNJuRw=s160-c-k-c0x00ffffff-no-rj" group-title="Haber",Ntv - YT
 http://87.121.104.29:1071/ntvyt/stream.m3u8?token=febd82b55211f8dbb329e59fcd2695bb
 #EXTINF:-1 tvg-id="haberglobal" tvg-name="Haber Global" tvg-logo="https://img.dsmartgo.com.tr/content/d/R2/13858/Thumbnail.png" group-title="Haber",Haber Global
