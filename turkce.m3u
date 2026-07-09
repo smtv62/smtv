@@ -53,6 +53,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 #EXTINF:0 tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" ,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" ,TRT Belgesel 2K
+https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:0 tvg-id="TGRT Belgesel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/tgrt-belgesel-tr.png?raw=true" ,TGRT Belgesel
 http://87.121.104.29:1071/tgrtbelgeselyt/stream.m3u8?token=0be8d8b7086d9c14e30c345b282bfd11
 #EXTINF:-1 tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png" ,Nature Time
