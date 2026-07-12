@@ -2,7 +2,7 @@ const fs = require('fs');
 const axios = require('axios');
 
 const LOCAL_FILE = 'turkce.m3u';
-const REMOTE_URL = 'https://link.testworkery0.workers.dev/patron.m3u';
+const REMOTE_URL = 'https://raw.githubusercontent.com/Adnan4161/TvCanli41/refs/heads/main/%40Kargo1975_Saraydorf_de_rectv_%20txt.m3u';
 const MATCH_THRESHOLD = 0.75; // Eşleşme hassasiyeti (%75)
 const CONCURRENCY_LIMIT = 10; // Aynı anda 10 kanalı birden kontrol eder
 
