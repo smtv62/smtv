@@ -178,11 +178,11 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 4K" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_124.png" group-title="TR | ULUSAL",TR: TRT 4K
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="rectarihtv" tvg-name="Tarih TV" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" group-title="Belgesel",Tarih TV
-https://dosemecik.denek1544.workers.dev/izle/tarihtv.m3u8?token=32c1fc9b026d300d9bfa5f1cc3914f8a
+https://cdn.lokkeweb.workers.dev/385695705243789b6f2c45.m3u8
 #EXTINF:-1 tvg-id="historyrec" tvg-name="Viasat Nature" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" group-title="Belgesel",Viasat Nature
 https://dosemecik.denek1544.workers.dev/izle/historychannel.m3u8?token=e94f7a9c623303545a76f4da54512e1a
 #EXTINF:-1 tvg-id="viasatrec" tvg-name="Viasat History" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" group-title="Belgesel",Viasat History
-https://dosemecik.denek1544.workers.dev/izle/historychannel.m3u8?token=32c1fc9b026d300d9bfa5f1cc3914f8a
+https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
 #EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel" tvg-logo="https://img.dsmartgo.com.tr/content/r/9C/11894/Thumbnail.png" group-title="Belgesel",Discovery Channel
 https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
 #EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" tvg-logo="https://img.dsmartgo.com.tr/content/b/vE/11891/Thumbnail.png" group-title="Belgesel",Discovery Science
