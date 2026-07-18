@@ -4,11 +4,11 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRT 2 HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-2-tr.png?raw=true" ,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="STAR TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/star-tv-tr.png?raw=true" ,Star TV
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8laoxi44qj2k&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:0 tvg-id="KANAL D HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/kanal-d-tr.png?raw=true" ,Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:0 tvg-id="SHOW TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-tr.png?raw=true" ,SHOW TV
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8
 #EXTINF:0 tvg-id="ATV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" ,ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:0 tvg-id="NOW.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/now-tr.png?raw=true" ,NOW
@@ -35,8 +35,6 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGzacRG0ekfTT92MUIcre6zZaKEoYRS8MtQ&s" ,Dizi TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png" ,SüperTürk TV
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQczc3D_tjuhgNlouc32_Z8V8-QGl8i3WijOg&s" ,Cinebox
 http://66.160.192.241/cineboxcinehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HsrtQ2hiA1pmZLMLKSNX4Q3a-9lgJvQQBhB6JAUnckfBwP3HjNso4oHDLdVR51ycKUcEEAisCA=s900-c-k-c0x00ffffff-no-rj" ,Fiber Box Yerli
@@ -49,8 +47,6 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 http://87.121.104.29:5010/channel?id=245931&token=febd82b55211f8dbb329e59fcd2695bb
 #EXTINF:0 tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-sinema-keyfi.png" ,SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png" ,Ons Tv
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" ,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-belgesel-tr.png?raw=true" ,TRT Belgesel 2K
@@ -86,7 +82,7 @@ https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1925951.png" ,VIASAT EXPLORE
 hhttp://65.108.239.207/viasatexplore/index.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913162.png" ,IZ TV
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+ 
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913160.png" ,E VIASAT
 http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:22:02:5E&stream=913161&extension=ts&play_token=auqEkAUcUp
 #EXTINF:-1 tvg-logo="tv logo" ,NATURE TIME
@@ -109,12 +105,8 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="Tivibu Spor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" ,Tivibu Spor
 https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
-#EXTINF:0 tvg-id="SPORTS TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/sports-tv-tr.png?raw=true" ,Sports TV
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,beIN Sports Haber
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Mackolik_favicon.png" ,Maçkolik Tv Deneme
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 tvg-id="tabii spor.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErjZujaIDxz6nuG3ZfOKlwU4P0T3q_seMEQ&s" ,Tabii Spor
 http://cf.1575-cdn.me:80/857ef05e6513D2/ae4ab944fc/1069950
 #EXTINF:-1 tvg-id="LocalNow_beINSPORTSXTRA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c3b244f859656ba284f02" ,beIN SPORTS XTRA
@@ -155,22 +147,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DzgqmDc_yXk6sZdoix3kaqkdU8SHn2fViNGsYeljLVOGJBKjDcccCX9UFA3ozp-_6pd8J34l4ME" ,EKOL Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
-#EXTINF:-1 tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/45155_0-73-1920-933.jpeg" ,tabii TV
-http://live.tabitv.workers.dev/?ID=tabii TV
-#EXTINF:-1,tabii spor 1
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,tabii Spor 2
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,tabii Spor 3
-https://uJnF69oP16X2fiIyWxCNx41Q8.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,tabii Spor 4
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,tabii Spor 5
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,tabii Spor 6
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,tabii Spor 7
-https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_131.png" group-title="TR | ULUSAL",TR: TRT 1 HD+
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_131.png" group-title="TR | ULUSAL",TR: TRT 1 HD
@@ -197,7 +173,7 @@ https://nord.ayakkabiparti.lol/sinemaaile/index.m3u8
 https://nord.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
 #EXTINF:-1 tvg-id="sinemakomedi" tvg-name="Sinema Komedi" tvg-logo="https://img.dsmartgo.com.tr/content/w/9a/22899/Thumbnail.png" group-title="Sinema Kanalları",Sinema Komedi
 https://nord.ayakkabiparti.lol/sinemakomedi/index.m3u8
-#EXTINF:-1 tvg-id="kablosinema1001" tvg-name="Sinema 1001 Yedek 2" tvg-logo="https://img.dsmartgo.com.tr/content/g/6y/22901/Thumbnail.png" group-title="Sinema Kanalları",Sinema 1001 Yedek 2
+#EXTINF:-1 tvg-id="kablosinema1001" tvg-name="Sinema 1001 Yedek 2" tvg-logo="https://img.dsmartgo.com.tr/content/g/6y/22901/Thumbnail.png" group-title="Sinema Kanalları",Sinema 1001 Yedek 
 https://nord.ayakkabiparti.lol/sinema1001/index.m3u8
 #EXTINF:-1 tvg-id="Tv 24" tvg-name="Tv 24" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png",Tv 24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
