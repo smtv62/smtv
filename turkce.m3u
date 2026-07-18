@@ -10,7 +10,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:0 tvg-id="SHOW TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/show-tr.png?raw=true" ,SHOW TV
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 tvg-id="ATV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/atv-tr.png?raw=true" ,ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:0 tvg-id="NOW.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/now-tr.png?raw=true" ,NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:0 tvg-id="BEYAZ TV HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/beyaz-tv-tr.png?raw=true" ,Beyaz TV
@@ -205,3 +205,11 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 https://ensonhaber-live.ercdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1002-tr.png",Sinema1002
 https://nord.ayakkabiparti.lol/sinema1002/index.m3u8
+#EXTINF:-1 tvg-id="DocuScreen" tvg-name="DocuScreen" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/docuscreen.png",DocuScreen
+https://nord.ayakkabiparti.lol/docubox/index.m3u8
+#EXTINF:-1 tvg-id="B Gurme" tvg-name="B Gurme" group-title="BELGESEL" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/02/bein-gurme-Logo-Vector.svg-.png",B Gurme (v)
+https://huhu.to/vavoo-iptv/play/361703541447c2d8cea904
+#EXTINF:-1 tvg-id="B IZ" tvg-name="B IZ" group-title="BELGESEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREm1Dd1REwtBZimALVwgoOU3ztrctvO0lK1A&s",B IZ (v)
+https://huhu.to/vavoo-iptv/play/16912230784a73b11d66ed
+#EXTINF:-1 tvg-id="Sinema Yerli" tvg-name="Sinema Yerli" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-yerli-tr.png",Sinema Yerli
+https://nord.ayakkabiparti.lol/sinemayerli/index.m3u8
