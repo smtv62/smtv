@@ -3,22 +3,19 @@ const axios = require('axios');
 
 const LOCAL_FILE = 'turkce.m3u';
 const REMOTE_URL = 'https://raw.githubusercontent.com/Adnan4161/TvCanli41/refs/heads/main/%40Kargo1975_Saraydorf_de_rectv_%20txt.m3u';
+const ULUSAL_URL = 'https://raw.githubusercontent.com/smtv62/ulusal/refs/heads/main/ulusal.m3u';
+
 const MATCH_THRESHOLD = 0.75; // Eşleşme hassasiyeti (%75)
 const CONCURRENCY_LIMIT = 10; // Aynı anda 10 kanalı birden kontrol eder
 
-// Adsız.png görselindeki tam hedef kanal listesi
+// Güncellenmiş hedef kanal listesi
 const TARGET_CHANNELS = [
-    "Tarih TV", "National Geographic", "National Geographic Wild", 
-    "Viasat Nature", "Viasat History", "Love Nature", "BBC Earth", 
-    "Discovery Channel", "Discovery Science", "Discovery ID", 
-    "Viasat Explore", "DocuBOX", "Yaban Tv", "TGRT Belgesel", "Çiftçi Tv",
-    "Fx", "Fx Yedek", 
-    "Sinema Tv", "Sinema Tv Yedek", "Sinema Tv Yedek 2", 
-    "Sinema Tv 2", "Sinema Tv 2 Yedek", 
-    "Sinema Aile", "Sinema Tv Aile Yedek", "Sinema Aile Yedek 2", "Sinema Aile 2", 
-    "Sinema Aksiyon", "Sinema Tv Aksiyon Yedek", "Sinema Aksiyon Yedek 2", "Sinema Aksiyon 2", 
-    "Sinema Komedi", "Sinema Tv Komedi Yedek", "Sinema Komedi Yedek 2", "Sinema Komedi 2", 
-    "Sinema Tv 1001", "Sinema Tv 1001 Yedek", "Sinema 1001 Yedek 2", "Sinema Tv 1002"
+    "BBC Earth", "DocuScreen", "Viasathistory", "Viasat Explore", 
+    "Discovery Channel", "Discovery ID", "Love Nature", "National Geographic", 
+    "Natgeo Wild", "B Gurme", "B IZ", "Sinema Aile", "Sinema Aksiyon", 
+    "Sinema Aksiyon 2", "Sinema Yerli", "Sinema Komedi", "Sinema Komedi 2", 
+    "Sinema Tv", "Sinema Tv 2", "Sinema 1001", "Sinema 1002",
+    "Star Tv", "Show Tv" // Ulusal listeden beslenecek kanallar listeye dahil edildi
 ];
 
 function normalizeText(text) {
@@ -141,6 +138,12 @@ function findBestMatch(localName, remoteChannels) {
     return highestScore >= MATCH_THRESHOLD ? bestMatch : null;
 }
 
+// Kanalın ulusal listeden mi yoksa ana listeden mi aranacağına karar veren yardımcı fonksiyon
+function isUlusalChannel(channelName) {
+    const normalized = normalizeText(channelName);
+    return normalized.includes("startv") || normalized.includes("showtv");
+}
+
 async function processInChunks(array, chunkSize, iteratorFn) {
     for (let i = 0; i < array.length; i += chunkSize) {
         const chunk = array.slice(i, i + chunkSize);
@@ -157,30 +160,54 @@ async function start() {
     const localContent = fs.readFileSync(LOCAL_FILE, 'utf-8');
     const localChannels = parseM3U(localContent);
 
-    console.log("🌐 Uzak listeden veriler çekiliyor...");
+    console.log("🌐 Uzak listelerden veriler çekiliyor...");
     const remoteResponse = await axios.get(REMOTE_URL);
     const remoteChannels = parseM3U(remoteResponse.data);
 
-    // Eski index aralığı yerine, uzak listeden sadece görseldeki hedef listeyle eşleşenleri filtreliyoruz
+    const ulusalResponse = await axios.get(ULUSAL_URL);
+    const ulusalChannels = parseM3U(ulusalResponse.data);
+
+    // İki uzak listeyi hedef kanallara göre filtreleyip birleştiriyoruz
     const filteredRemoteChannels = remoteChannels.filter(remoteChan => {
+        if (isUlusalChannel(remoteChan.name)) return false; // Star/Show buraya düşmesin
         return TARGET_CHANNELS.some(targetName => getSimilarity(remoteChan.name, targetName) >= MATCH_THRESHOLD);
     });
-    
-    console.log(`🎯 Hedef listeden ${filteredRemoteChannels.length} kanal başarıyla filtrelendi.`);
 
-    console.log("🔎 Kanal kontrolleri ve güncellemeler paralel olarak başlıyor...");
+    const filteredUlusalChannels = ulusalChannels.filter(remoteChan => {
+        if (!isUlusalChannel(remoteChan.name)) return false; // Sadece Star/Show buraya düşsün
+        return TARGET_CHANNELS.some(targetName => getSimilarity(remoteChan.name, targetName) >= MATCH_THRESHOLD);
+    });
+
+    // Filtrelenmiş listeleri tek çatı altında birleştiriyoruz
+    const allFilteredRemoteChannels = [...filteredRemoteChannels, ...filteredUlusalChannels];
     
-    await processInChunks(localChannels, CONCURRENCY_LIMIT, async (localChan) => {
+    console.log(`🎯 Hedef listeden ${allFilteredRemoteChannels.length} kanal başarıyla filtrelendi.`);
+
+    // Sadece TARGET_CHANNELS listesinde yer alan yerel kanalları güncelleme işlemine tabi tutuyoruz
+    const localChannelsToProcess = localChannels.filter(localChan => 
+        TARGET_CHANNELS.some(targetName => getSimilarity(localChan.name, targetName) >= MATCH_THRESHOLD)
+    );
+
+    console.log(`🔎 Belirlenen ${localChannelsToProcess.length} adet kanal için kontroller paralel olarak başlıyor...`);
+    
+    await processInChunks(localChannelsToProcess, CONCURRENCY_LIMIT, async (localChan) => {
         console.log(`⏱️ Kontrol ediliyor: ${localChan.name}`);
         const isWorking = await checkChannel(localChan.url);
 
         if (!isWorking) {
             console.log(`⚠️ Çalışmıyor: ${localChan.name}. Güncel link aranıyor...`);
-            const matchInRemote = findBestMatch(localChan.name, filteredRemoteChannels);
+            
+            // Star ve Show TV için ulusal kaynak havuzunu, diğerleri için ana havuzu kullan
+            const searchSource = isUlusalChannel(localChan.name) ? filteredUlusalChannels : filteredRemoteChannels;
+            const matchInRemote = findBestMatch(localChan.name, searchSource);
             
             if (matchInRemote) {
-                localChan.url = matchInRemote.url;
-                console.log(`✅ ${localChan.name} -> ${matchInRemote.name} olarak eşleşti ve güncellendi.`);
+                // Orijinal localChannels dizisindeki referansı bulup güncelliyoruz
+                const originalChan = localChannels.find(l => l.info === localChan.info && l.url === localChan.url);
+                if (originalChan) {
+                    originalChan.url = matchInRemote.url;
+                    console.log(`✅ ${localChan.name} -> ${matchInRemote.name} olarak eşleşti ve güncellendi.`);
+                }
             } else {
                 console.log(`❌ ${localChan.name} için uzak listede benzer bir karşılık bulunamadı.`);
             }
@@ -189,12 +216,20 @@ async function start() {
         }
     });
 
-    // 2. Yerelde olmayan yeni kanalları ekle (Yalnızca filtrelenmiş hedef listedekileri ekler)
-    for (let remoteChan of filteredRemoteChannels) {
-        const hasMatch = localChannels.some(l => getSimilarity(l.name, remoteChan.name) >= MATCH_THRESHOLD);
-        if (!hasMatch) {
-            localChannels.push(remoteChan);
-            console.log(`➕ Yeni hedef kanal eklendi: ${remoteChan.name}`);
+    // 2. Yerelde olmayan yeni kanalları ekle (Sırayla ve yalnızca filtrelenmiş hedef listedekileri ekler)
+    for (let targetName of TARGET_CHANNELS) {
+        // Yerel listede bu kanal zaten var mı?
+        const hasMatchInLocal = localChannels.some(l => getSimilarity(l.name, targetName) >= MATCH_THRESHOLD);
+        
+        if (!hasMatchInLocal) {
+            // Hangi havuzdan arayacağımızı seçiyoruz
+            const searchSource = isUlusalChannel(targetName) ? filteredUlusalChannels : filteredRemoteChannels;
+            const matchInRemote = findBestMatch(targetName, searchSource);
+            
+            if (matchInRemote) {
+                localChannels.push(matchInRemote);
+                console.log(`➕ Yeni hedef kanal eklendi: ${matchInRemote.name}`);
+            }
         }
     }
 
