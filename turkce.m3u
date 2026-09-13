@@ -53,6 +53,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-id="TRT.HABER.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-haber-hd-tr.png?raw=true" ,TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/X_QBQmvJ2k52xL44leovV8x6oKn-61sKQYyHTXm1eHVI8bW-r2qEbZb_QPeyIj_IERMrncvM=s160-c-k-c0x00ffffff-no-rj" ,Discovery Channel
+http://195.142.194.26:5656/play/a07l
 #EXTINF:0 tvg-id="NATIONAL.GEOGRAPHIC.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,National Geographic
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,Nat Geo Wild
@@ -69,7 +71,7 @@ http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6857/index.m3u8
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6858/index.m3u8
 #EXTINF:-1 ,Animal Planet TR
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6859/index.m3u8
-#EXTINF:-1 ,TR| BBC EARTH
+#EXTINF:-1 ,BBC EARTH
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6854/index.m3u8
 #EXTINF:-1 tvg-id="VIASAT.EXPLORE.tr" tvg-logo="http://51.158.145.100/picons/logos/logos/1925951.png" ,VIASAT EXPLORE
 http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:22:02:5E&stream=913161&extension=ts&play_token=auqEkAUcUp
@@ -91,6 +93,8 @@ http://umperisn.mywire.org/index.php?id=2020&token=DeaTHLesS
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRT.3.-..SPOR.tr" tvg-logo="https://yt3.googleusercontent.com/IpX5UbYPLbznJounko5VwwOYI6YTC467HUpRudPQQJC84GHOVbsecIox3njypf8tFYQtUHKWG24=s160-c-k-c0x00ffffff-no-rj?raw=true" ,Sıfır TV
 http://umperisn.mywire.org/index.php?id=611874&token=DeaTHLesS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" ,EuroSport 1
+http://195.142.194.26:5656/play/a07i
 #EXTINF:0 tvg-id="HT SPOR.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" ,HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,beIN Sports Haber
@@ -123,11 +127,4 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/nr1-tr.png?raw=true" ,NR 1 Türk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DzgqmDc_yXk6sZdoix3kaqkdU8SHn2fViNGsYeljLVOGJBKjDcccCX9UFA3ozp-_6pd8J34l4ME" ,EKOL Sports
-https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL" tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD+" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_131.png" ,TR: TRT 1 HD+
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL" tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_131.png" ,TR: TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL" tvg-id="trt1.tr" tvg-name="TR: TRT 4K" tvg-logo="https://uscloudpanel.com/logo/galeri_MTY2N_124.png" ,TR: TRT 4K
-https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.c
