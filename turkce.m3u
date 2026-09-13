@@ -54,7 +54,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-id="TRT.HABER.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-haber-hd-tr.png?raw=true" ,TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="NATIONAL.GEOGRAPHIC.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,National Geographic
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/national-geographic-it.png?raw=true" ,Nat Geo Wild
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6866/index.m3u8
 #EXTINF:-1 ,Love Nature HD TR
@@ -86,9 +86,11 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:0 tvg-id="TRT.SPOR.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-hd-tr.png?raw=true" ,TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRT.3.-..SPOR.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-3-spor-tr.png?raw=true" ,TRT 3 Spor
-http://31.222.206.98/8808/tracks-v1a1/mono.ts.m3u8?token=test
+http://umperisn.mywire.org/index.php?id=2020&token=DeaTHLesS
 #EXTINF:0 tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-yildiz-tr.png?raw=true" ,TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-id="TRT.3.-..SPOR.tr" tvg-logo="https://yt3.googleusercontent.com/IpX5UbYPLbznJounko5VwwOYI6YTC467HUpRudPQQJC84GHOVbsecIox3njypf8tFYQtUHKWG24=s160-c-k-c0x00ffffff-no-rj?raw=true" ,Sıfır TV
+http://umperisn.mywire.org/index.php?id=611874&token=DeaTHLesS
 #EXTINF:0 tvg-id="HT SPOR.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" ,HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:0 tvg-logo="https://github.com/msolihinam/tv/blob/main/logo/beINsports.png?raw=true" ,beIN Sports Haber
