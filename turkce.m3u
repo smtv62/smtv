@@ -90,7 +90,7 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRT.3.-..SPOR.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-3-spor-tr.png?raw=true" ,TRT 3 Spor
 http://umperisn.mywire.org/index.php?id=2020&token=DeaTHLesS
 #EXTINF:0 tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-yildiz-tr.png?raw=true" ,TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+https://tv-trtspor2.medya.trt.com.tr/master_1440p.m3u8
 #EXTINF:0 tvg-id="TRT.3.-..SPOR.tr" tvg-logo="https://yt3.googleusercontent.com/IpX5UbYPLbznJounko5VwwOYI6YTC467HUpRudPQQJC84GHOVbsecIox3njypf8tFYQtUHKWG24=s160-c-k-c0x00ffffff-no-rj?raw=true" ,Sıfır TV
 http://umperisn.mywire.org/index.php?id=611874&token=DeaTHLesS
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" ,EuroSport 1
@@ -101,6 +101,8 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-id="LocalNow_beINSPORTSXTRA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c3b244f859656ba284f02" ,beIN SPORTS XTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/548/607/png-transparent-ntv-hd-logo.png" ,NTV
+https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
 #EXTINF:0 tvg-id="TRT.MÜZİK.tr" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082021/01_0.png?ltUx4PBAcnrPKk2agIzALKDUyHAUBcII&itok=39Tj4DyG" ,TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="NR1 DAMAR HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/nr1-damar-tr.png?raw=true" ,NR 1 Damar
